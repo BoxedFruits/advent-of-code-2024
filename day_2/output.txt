@@ -1,0 +1,5474 @@
+RUNNING ETST
+HERE???
+starting??
+CONVERT
+58 59 -1
+59 62 -3
+62 63 -1
+63 64 -1
+[58 59 62 63 64 63]  bad level
+starting??
+CONVERT
+71 72 -1
+72 74 -2
+74 76 -2
+76 78 -2
+78 80 -2
+80 82 -2
+[71 72 74 76 78 80 82 82]  bad level
+starting??
+CONVERT
+26 29 -3
+29 32 -3
+32 34 -2
+34 35 -1
+[26 29 32 34 35 39]  bad level
+starting??
+CONVERT
+9 11 -2
+11 14 -3
+14 17 -3
+17 19 -2
+19 20 -1
+20 21 -1
+[9 11 14 17 19 20 21 26]  bad level
+starting??
+CONVERT
+89 92 -3
+92 95 -3
+95 93 2
+[89 92 95 93 94 97 98]  bad level
+starting??
+CONVERT
+35 37 -2
+37 40 -3
+40 41 -1
+41 43 -2
+43 42 1
+[35 37 40 41 43 42 39]  bad level
+starting??
+CONVERT
+89 91 -2
+91 94 -3
+94 96 -2
+96 97 -1
+97 99 -2
+99 98 1
+[89 91 94 96 97 99 98 98]  bad level
+starting??
+CONVERT
+85 86 -1
+86 83 3
+[85 86 83 84 85 86 90]  bad level
+starting??
+CONVERT
+46 48 -2
+48 50 -2
+50 52 -2
+52 49 3
+[46 48 50 52 49 52 59]  bad level
+starting??
+CONVERT
+56 58 -2
+58 58 0
+[56 58 58 60 62]  bad level
+starting??
+CONVERT
+77 79 -2
+79 82 -3
+82 83 -1
+83 86 -3
+86 87 -1
+87 87 0
+[77 79 82 83 86 87 87 85]  bad level
+starting??
+CONVERT
+5 6 -1
+6 9 -3
+9 9 0
+[5 6 9 9 12 15 15]  bad level
+starting??
+CONVERT
+78 80 -2
+80 80 0
+[78 80 80 82 83 84 88]  bad level
+starting??
+CONVERT
+78 81 -3
+81 83 -2
+83 85 -2
+85 86 -1
+86 86 0
+[78 81 83 85 86 86 88 94]  bad level
+starting??
+CONVERT
+80 81 -1
+81 83 -2
+83 84 -1
+84 88 -4
+[80 81 83 84 88 91]  bad level
+starting??
+CONVERT
+10 13 -3
+13 16 -3
+16 17 -1
+17 21 -4
+[10 13 16 17 21 19]  bad level
+starting??
+CONVERT
+14 16 -2
+16 19 -3
+19 22 -3
+22 23 -1
+23 24 -1
+24 28 -4
+[14 16 19 22 23 24 28 28]  bad level
+starting??
+CONVERT
+11 12 -1
+12 14 -2
+14 17 -3
+17 19 -2
+19 23 -4
+[11 12 14 17 19 23 27]  bad level
+starting??
+CONVERT
+68 71 -3
+71 72 -1
+72 73 -1
+73 76 -3
+76 80 -4
+[68 71 72 73 76 80 86]  bad level
+starting??
+CONVERT
+78 79 -1
+79 82 -3
+82 87 -5
+[78 79 82 87 88]  bad level
+starting??
+CONVERT
+53 56 -3
+56 58 -2
+58 64 -6
+[53 56 58 64 62]  bad level
+starting??
+CONVERT
+44 46 -2
+46 49 -3
+49 56 -7
+[44 46 49 56 56]  bad level
+starting??
+CONVERT
+29 31 -2
+31 32 -1
+32 33 -1
+33 36 -3
+36 37 -1
+37 43 -6
+[29 31 32 33 36 37 43 47]  bad level
+starting??
+CONVERT
+38 41 -3
+41 43 -2
+43 44 -1
+44 49 -5
+[38 41 43 44 49 50 53 59]  bad level
+starting??
+CONVERT
+28 27 1
+27 30 -3
+[28 27 30 32 35 36 38]  bad level
+starting??
+CONVERT
+48 46 2
+46 47 -1
+[48 46 47 50 53 50]  bad level
+starting??
+CONVERT
+23 22 1
+22 25 -3
+[23 22 25 28 28]  bad level
+starting??
+CONVERT
+16 15 1
+15 17 -2
+[16 15 17 19 21 23 27]  bad level
+starting??
+CONVERT
+34 32 2
+32 33 -1
+[34 32 33 35 37 40 43 48]  bad level
+starting??
+CONVERT
+83 80 3
+80 81 -1
+[83 80 81 82 79 82 83]  bad level
+starting??
+CONVERT
+68 67 1
+67 65 2
+65 66 -1
+[68 67 65 66 68 70 69]  bad level
+starting??
+CONVERT
+86 84 2
+84 86 -2
+[86 84 86 83 84 85 85]  bad level
+starting??
+CONVERT
+65 64 1
+64 67 -3
+[65 64 67 68 66 70]  bad level
+starting??
+CONVERT
+40 39 1
+39 42 -3
+[40 39 42 45 43 49]  bad level
+starting??
+CONVERT
+32 29 3
+29 30 -1
+[32 29 30 30 32 34 35]  bad level
+starting??
+CONVERT
+93 90 3
+90 90 0
+[93 90 90 92 95 97 94]  bad level
+starting??
+CONVERT
+17 15 2
+15 16 -1
+[17 15 16 18 20 20 20]  bad level
+starting??
+CONVERT
+82 81 1
+81 84 -3
+[82 81 84 84 86 90]  bad level
+starting??
+CONVERT
+71 69 2
+69 72 -3
+[71 69 72 73 75 76 76 83]  bad level
+starting??
+CONVERT
+12 11 1
+11 15 -4
+[12 11 15 16 18]  bad level
+starting??
+CONVERT
+75 73 2
+73 77 -4
+[75 73 77 78 77]  bad level
+starting??
+CONVERT
+10 8 2
+8 12 -4
+[10 8 12 13 13]  bad level
+starting??
+CONVERT
+25 23 2
+23 26 -3
+[25 23 26 30 32 34 38]  bad level
+starting??
+CONVERT
+10 7 3
+7 11 -4
+[10 7 11 12 13 15 18 25]  bad level
+starting??
+CONVERT
+41 39 2
+39 41 -2
+[41 39 41 44 47 52 53 55]  bad level
+starting??
+CONVERT
+22 19 3
+19 26 -7
+[22 19 26 28 26]  bad level
+starting??
+CONVERT
+54 53 1
+53 55 -2
+[54 53 55 62 62]  bad level
+starting??
+CONVERT
+31 30 1
+30 31 -1
+[31 30 31 38 42]  bad level
+starting??
+CONVERT
+63 60 3
+60 62 -2
+[63 60 62 67 72]  bad level
+starting??
+CONVERT
+49 49 0
+starting??
+CONVERT
+59 59 0
+starting??
+CONVERT
+19 19 0
+starting??
+CONVERT
+81 81 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+9 9 0
+starting??
+CONVERT
+59 59 0
+starting??
+CONVERT
+68 68 0
+starting??
+CONVERT
+10 10 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+68 68 0
+starting??
+CONVERT
+58 58 0
+starting??
+CONVERT
+64 64 0
+starting??
+CONVERT
+82 82 0
+starting??
+CONVERT
+79 79 0
+starting??
+CONVERT
+31 31 0
+starting??
+CONVERT
+39 39 0
+starting??
+CONVERT
+44 44 0
+starting??
+CONVERT
+42 42 0
+starting??
+CONVERT
+6 6 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+71 71 0
+starting??
+CONVERT
+1 1 0
+starting??
+CONVERT
+26 26 0
+starting??
+CONVERT
+79 79 0
+starting??
+CONVERT
+69 73 -4
+starting??
+CONVERT
+44 48 -4
+starting??
+CONVERT
+21 25 -4
+starting??
+CONVERT
+52 56 -4
+starting??
+CONVERT
+7 11 -4
+starting??
+CONVERT
+65 69 -4
+starting??
+CONVERT
+53 57 -4
+starting??
+CONVERT
+85 89 -4
+starting??
+CONVERT
+80 84 -4
+starting??
+CONVERT
+56 60 -4
+starting??
+CONVERT
+42 46 -4
+starting??
+CONVERT
+85 89 -4
+starting??
+CONVERT
+71 75 -4
+starting??
+CONVERT
+52 56 -4
+starting??
+CONVERT
+69 73 -4
+starting??
+CONVERT
+22 26 -4
+starting??
+CONVERT
+68 72 -4
+starting??
+CONVERT
+43 47 -4
+starting??
+CONVERT
+49 53 -4
+starting??
+CONVERT
+30 34 -4
+starting??
+CONVERT
+41 45 -4
+starting??
+CONVERT
+24 28 -4
+starting??
+CONVERT
+45 49 -4
+starting??
+CONVERT
+15 19 -4
+starting??
+CONVERT
+59 63 -4
+starting??
+CONVERT
+75 80 -5
+starting??
+CONVERT
+32 39 -7
+starting??
+CONVERT
+35 41 -6
+starting??
+CONVERT
+13 20 -7
+starting??
+CONVERT
+16 21 -5
+starting??
+CONVERT
+42 48 -6
+starting??
+CONVERT
+16 21 -5
+starting??
+CONVERT
+32 39 -7
+starting??
+CONVERT
+4 9 -5
+starting??
+CONVERT
+41 46 -5
+starting??
+CONVERT
+64 71 -7
+starting??
+CONVERT
+66 72 -6
+starting??
+CONVERT
+63 68 -5
+starting??
+CONVERT
+5 12 -7
+starting??
+CONVERT
+63 68 -5
+starting??
+CONVERT
+52 57 -5
+starting??
+CONVERT
+15 21 -6
+starting??
+CONVERT
+35 42 -7
+starting??
+CONVERT
+68 75 -7
+starting??
+CONVERT
+31 38 -7
+starting??
+CONVERT
+7 14 -7
+starting??
+CONVERT
+41 48 -7
+starting??
+CONVERT
+73 80 -7
+starting??
+CONVERT
+5 11 -6
+starting??
+CONVERT
+68 74 -6
+starting??
+CONVERT
+94 92 2
+92 91 1
+91 90 1
+90 88 2
+[94 92 91 90 88 91]  bad level
+starting??
+CONVERT
+42 39 3
+39 38 1
+38 37 1
+37 34 3
+[42 39 38 37 34 34]  bad level
+starting??
+CONVERT
+77 74 3
+74 71 3
+71 69 2
+69 67 2
+67 66 1
+[77 74 71 69 67 66 62]  bad level
+starting??
+CONVERT
+76 75 1
+75 73 2
+73 72 1
+72 70 2
+70 67 3
+67 65 2
+[76 75 73 72 70 67 65 59]  bad level
+starting??
+CONVERT
+27 25 2
+25 24 1
+24 27 -3
+[27 25 24 27 26 24 22]  bad level
+starting??
+CONVERT
+87 86 1
+86 89 -3
+[87 86 89 86 89]  bad level
+starting??
+CONVERT
+62 61 1
+61 62 -1
+[62 61 62 61 60 58 56 56]  bad level
+starting??
+CONVERT
+10 7 3
+7 6 1
+6 7 -1
+[10 7 6 7 3]  bad level
+starting??
+CONVERT
+34 33 1
+33 31 2
+31 34 -3
+[34 33 31 34 31 29 22]  bad level
+starting??
+CONVERT
+27 26 1
+26 26 0
+[27 26 26 24 23 22 19]  bad level
+starting??
+CONVERT
+41 38 3
+38 38 0
+[41 38 38 36 37]  bad level
+starting??
+CONVERT
+86 83 3
+83 83 0
+[86 83 83 81 81]  bad level
+starting??
+CONVERT
+16 15 1
+15 15 0
+[16 15 15 14 13 10 7 3]  bad level
+starting??
+CONVERT
+47 46 1
+46 46 0
+[47 46 46 45 38]  bad level
+starting??
+CONVERT
+61 58 3
+58 57 1
+57 56 1
+56 54 2
+54 50 4
+[61 58 57 56 54 50 48]  bad level
+starting??
+CONVERT
+42 41 1
+41 37 4
+[42 41 37 36 37]  bad level
+starting??
+CONVERT
+70 68 2
+68 64 4
+[70 68 64 62 62]  bad level
+starting??
+CONVERT
+15 12 3
+12 11 1
+11 9 2
+9 5 4
+[15 12 11 9 5 1]  bad level
+starting??
+CONVERT
+76 73 3
+73 69 4
+[76 73 69 68 63]  bad level
+starting??
+CONVERT
+89 87 2
+87 86 1
+86 80 6
+[89 87 86 80 78 77 75]  bad level
+starting??
+CONVERT
+92 90 2
+90 88 2
+88 85 3
+85 82 3
+82 76 6
+[92 90 88 85 82 76 78]  bad level
+starting??
+CONVERT
+85 82 3
+82 79 3
+79 72 7
+[85 82 79 72 71 68 65 65]  bad level
+starting??
+CONVERT
+92 91 1
+91 88 3
+88 83 5
+[92 91 88 83 80 78 74]  bad level
+starting??
+CONVERT
+60 58 2
+58 57 1
+57 56 1
+56 54 2
+54 48 6
+[60 58 57 56 54 48 42]  bad level
+starting??
+CONVERT
+38 40 -2
+40 39 1
+[38 40 39 38 37 34]  bad level
+starting??
+CONVERT
+73 76 -3
+76 73 3
+[73 76 73 72 75]  bad level
+starting??
+CONVERT
+44 47 -3
+47 45 2
+[44 47 45 43 40 38 36 36]  bad level
+starting??
+CONVERT
+40 43 -3
+43 40 3
+[40 43 40 39 35]  bad level
+starting??
+CONVERT
+27 29 -2
+29 26 3
+[27 29 26 25 22 20 15]  bad level
+starting??
+CONVERT
+21 24 -3
+24 21 3
+[21 24 21 22 20]  bad level
+starting??
+CONVERT
+5 7 -2
+7 6 1
+[5 7 6 7 4 3 6]  bad level
+starting??
+CONVERT
+82 83 -1
+83 82 1
+[82 83 82 79 76 79 79]  bad level
+starting??
+CONVERT
+25 27 -2
+27 30 -3
+30 28 2
+[25 27 30 28 24]  bad level
+starting??
+CONVERT
+81 83 -2
+83 81 2
+[81 83 81 84 79]  bad level
+starting??
+CONVERT
+87 89 -2
+89 89 0
+[87 89 89 86 84 81 80 77]  bad level
+starting??
+CONVERT
+36 38 -2
+38 38 0
+[36 38 38 35 36]  bad level
+starting??
+CONVERT
+37 40 -3
+40 38 2
+[37 40 38 38 38]  bad level
+starting??
+CONVERT
+84 85 -1
+85 82 3
+[84 85 82 81 81 77]  bad level
+starting??
+CONVERT
+16 17 -1
+17 14 3
+[16 17 14 13 13 6]  bad level
+starting??
+CONVERT
+36 38 -2
+38 34 4
+[36 38 34 32 30 28]  bad level
+starting??
+CONVERT
+13 14 -1
+14 13 1
+[13 14 13 9 6 5 6]  bad level
+starting??
+CONVERT
+32 33 -1
+33 31 2
+[32 33 31 27 27]  bad level
+starting??
+CONVERT
+33 35 -2
+35 32 3
+[33 35 32 28 24]  bad level
+starting??
+CONVERT
+95 96 -1
+96 93 3
+[95 96 93 89 86 83 76]  bad level
+starting??
+CONVERT
+56 59 -3
+59 58 1
+[56 59 58 51 48 46 45]  bad level
+starting??
+CONVERT
+55 56 -1
+56 54 2
+[55 56 54 47 44 47]  bad level
+starting??
+CONVERT
+25 26 -1
+26 24 2
+[25 26 24 21 15 15]  bad level
+starting??
+CONVERT
+35 37 -2
+37 30 7
+[35 37 30 27 23]  bad level
+starting??
+CONVERT
+93 96 -3
+96 95 1
+[93 96 95 88 86 79]  bad level
+starting??
+CONVERT
+16 16 0
+starting??
+CONVERT
+65 65 0
+starting??
+CONVERT
+58 58 0
+starting??
+CONVERT
+78 78 0
+starting??
+CONVERT
+80 80 0
+starting??
+CONVERT
+49 49 0
+starting??
+CONVERT
+57 57 0
+starting??
+CONVERT
+85 85 0
+starting??
+CONVERT
+52 52 0
+starting??
+CONVERT
+34 34 0
+starting??
+CONVERT
+55 55 0
+starting??
+CONVERT
+94 94 0
+starting??
+CONVERT
+16 16 0
+starting??
+CONVERT
+87 87 0
+starting??
+CONVERT
+46 46 0
+starting??
+CONVERT
+64 64 0
+starting??
+CONVERT
+88 88 0
+starting??
+CONVERT
+33 33 0
+starting??
+CONVERT
+49 49 0
+starting??
+CONVERT
+88 88 0
+starting??
+CONVERT
+13 13 0
+starting??
+CONVERT
+80 80 0
+starting??
+CONVERT
+88 88 0
+starting??
+CONVERT
+65 65 0
+starting??
+CONVERT
+41 41 0
+starting??
+CONVERT
+77 73 4
+starting??
+CONVERT
+79 75 4
+starting??
+CONVERT
+99 95 4
+starting??
+CONVERT
+18 14 4
+starting??
+CONVERT
+72 68 4
+starting??
+CONVERT
+70 66 4
+starting??
+CONVERT
+78 74 4
+starting??
+CONVERT
+68 64 4
+starting??
+CONVERT
+57 53 4
+starting??
+CONVERT
+13 9 4
+starting??
+CONVERT
+51 47 4
+starting??
+CONVERT
+81 77 4
+starting??
+CONVERT
+51 47 4
+starting??
+CONVERT
+21 17 4
+starting??
+CONVERT
+80 76 4
+starting??
+CONVERT
+22 18 4
+starting??
+CONVERT
+22 18 4
+starting??
+CONVERT
+22 18 4
+starting??
+CONVERT
+31 27 4
+starting??
+CONVERT
+48 44 4
+starting??
+CONVERT
+30 26 4
+starting??
+CONVERT
+39 35 4
+starting??
+CONVERT
+66 62 4
+starting??
+CONVERT
+25 21 4
+starting??
+CONVERT
+82 78 4
+starting??
+CONVERT
+36 29 7
+starting??
+CONVERT
+34 29 5
+starting??
+CONVERT
+74 68 6
+starting??
+CONVERT
+75 70 5
+starting??
+CONVERT
+98 91 7
+starting??
+CONVERT
+50 45 5
+starting??
+CONVERT
+89 84 5
+starting??
+CONVERT
+66 60 6
+starting??
+CONVERT
+44 38 6
+starting??
+CONVERT
+53 47 6
+starting??
+CONVERT
+14 8 6
+starting??
+CONVERT
+36 30 6
+starting??
+CONVERT
+23 16 7
+starting??
+CONVERT
+55 48 7
+starting??
+CONVERT
+83 78 5
+starting??
+CONVERT
+37 30 7
+starting??
+CONVERT
+81 74 7
+starting??
+CONVERT
+57 51 6
+starting??
+CONVERT
+62 56 6
+starting??
+CONVERT
+49 42 7
+starting??
+CONVERT
+97 92 5
+starting??
+CONVERT
+79 72 7
+starting??
+CONVERT
+87 82 5
+starting??
+CONVERT
+75 70 5
+starting??
+CONVERT
+84 79 5
+starting??
+CONVERT
+17 19 -2
+19 20 -1
+20 21 -1
+21 22 -1
+[17 19 20 21 22 20]  bad level
+starting??
+CONVERT
+71 74 -3
+74 75 -1
+75 78 -3
+78 81 -3
+[71 74 75 78 81 81]  bad level
+starting??
+CONVERT
+58 60 -2
+60 62 -2
+62 63 -1
+63 65 -2
+[58 60 62 63 65 69]  bad level
+starting??
+CONVERT
+21 23 -2
+23 24 -1
+24 26 -2
+26 28 -2
+[21 23 24 26 28 34]  bad level
+starting??
+CONVERT
+70 72 -2
+72 74 -2
+74 76 -2
+76 78 -2
+78 80 -2
+80 78 2
+[70 72 74 76 78 80 78 80]  bad level
+starting??
+CONVERT
+33 35 -2
+35 34 1
+[33 35 34 36 37 35]  bad level
+starting??
+CONVERT
+18 20 -2
+20 23 -3
+23 24 -1
+24 22 2
+[18 20 23 24 22 25 28 28]  bad level
+starting??
+CONVERT
+88 91 -3
+91 94 -3
+94 92 2
+[88 91 94 92 96]  bad level
+starting??
+CONVERT
+7 9 -2
+9 11 -2
+11 8 3
+[7 9 11 8 14]  bad level
+starting??
+CONVERT
+63 65 -2
+65 66 -1
+66 68 -2
+68 68 0
+[63 65 66 68 68 69 71]  bad level
+starting??
+CONVERT
+20 23 -3
+23 24 -1
+24 27 -3
+27 27 0
+[20 23 24 27 27 28 26]  bad level
+starting??
+CONVERT
+61 62 -1
+62 63 -1
+63 64 -1
+64 64 0
+[61 62 63 64 64 64]  bad level
+starting??
+CONVERT
+66 68 -2
+68 70 -2
+70 70 0
+[66 68 70 70 74]  bad level
+starting??
+CONVERT
+17 19 -2
+19 20 -1
+20 20 0
+[17 19 20 20 22 25 28 34]  bad level
+starting??
+CONVERT
+7 10 -3
+10 14 -4
+[7 10 14 17 20 22]  bad level
+starting??
+CONVERT
+13 15 -2
+15 17 -2
+17 21 -4
+[13 15 17 21 23 22]  bad level
+starting??
+CONVERT
+8 9 -1
+9 13 -4
+[8 9 13 15 16 19 19]  bad level
+starting??
+CONVERT
+73 74 -1
+74 76 -2
+76 79 -3
+79 82 -3
+82 84 -2
+84 88 -4
+[73 74 76 79 82 84 88 92]  bad level
+starting??
+CONVERT
+69 71 -2
+71 73 -2
+73 75 -2
+75 79 -4
+[69 71 73 75 79 81 83 88]  bad level
+starting??
+CONVERT
+63 64 -1
+64 66 -2
+66 69 -3
+69 76 -7
+[63 64 66 69 76 78 80 83]  bad level
+starting??
+CONVERT
+76 79 -3
+79 86 -7
+[76 79 86 88 91 94 91]  bad level
+starting??
+CONVERT
+43 45 -2
+45 46 -1
+46 47 -1
+47 49 -2
+49 52 -3
+52 58 -6
+[43 45 46 47 49 52 58 58]  bad level
+starting??
+CONVERT
+41 42 -1
+42 44 -2
+44 46 -2
+46 48 -2
+48 53 -5
+[41 42 44 46 48 53 54 58]  bad level
+starting??
+CONVERT
+76 77 -1
+77 79 -2
+79 86 -7
+[76 77 79 86 88 90 96]  bad level
+starting??
+CONVERT
+25 24 1
+24 25 -1
+[25 24 25 27 30 32]  bad level
+starting??
+CONVERT
+6 3 3
+3 5 -2
+[6 3 5 8 6]  bad level
+starting??
+CONVERT
+91 89 2
+89 90 -1
+[91 89 90 92 92]  bad level
+starting??
+CONVERT
+25 22 3
+22 24 -2
+[25 22 24 26 29 32 36]  bad level
+starting??
+CONVERT
+74 71 3
+71 74 -3
+[74 71 74 76 78 84]  bad level
+starting??
+CONVERT
+50 49 1
+49 51 -2
+[50 49 51 50 53 55]  bad level
+starting??
+CONVERT
+62 61 1
+61 59 2
+59 61 -2
+[62 61 59 61 60]  bad level
+starting??
+CONVERT
+82 79 3
+79 80 -1
+[82 79 80 77 78 81 83 83]  bad level
+starting??
+CONVERT
+93 92 1
+92 90 2
+90 91 -1
+[93 92 90 91 93 97]  bad level
+starting??
+CONVERT
+88 85 3
+85 86 -1
+[88 85 86 85 88 95]  bad level
+starting??
+CONVERT
+29 26 3
+26 27 -1
+[29 26 27 30 30 32]  bad level
+starting??
+CONVERT
+24 23 1
+23 23 0
+[24 23 23 24 27 26]  bad level
+starting??
+CONVERT
+33 31 2
+31 31 0
+[33 31 31 34 35 35]  bad level
+starting??
+CONVERT
+89 88 1
+88 89 -1
+[89 88 89 89 93]  bad level
+starting??
+CONVERT
+78 75 3
+75 75 0
+[78 75 75 77 79 82 88]  bad level
+starting??
+CONVERT
+45 44 1
+44 46 -2
+[45 44 46 50 52 53 55]  bad level
+starting??
+CONVERT
+44 41 3
+41 45 -4
+[44 41 45 47 48 46]  bad level
+starting??
+CONVERT
+49 48 1
+48 52 -4
+[49 48 52 55 55]  bad level
+starting??
+CONVERT
+69 67 2
+67 70 -3
+[69 67 70 73 74 78 82]  bad level
+starting??
+CONVERT
+16 15 1
+15 19 -4
+[16 15 19 21 28]  bad level
+starting??
+CONVERT
+11 9 2
+9 11 -2
+[11 9 11 17 19 22 25 28]  bad level
+starting??
+CONVERT
+44 42 2
+42 47 -5
+[44 42 47 49 46]  bad level
+starting??
+CONVERT
+60 59 1
+59 64 -5
+[60 59 64 65 65]  bad level
+starting??
+CONVERT
+42 40 2
+40 46 -6
+[42 40 46 49 51 54 58]  bad level
+starting??
+CONVERT
+8 6 2
+6 9 -3
+[8 6 9 10 12 13 19 25]  bad level
+starting??
+CONVERT
+53 53 0
+starting??
+CONVERT
+13 13 0
+starting??
+CONVERT
+4 4 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+14 14 0
+starting??
+CONVERT
+16 16 0
+starting??
+CONVERT
+80 80 0
+starting??
+CONVERT
+2 2 0
+starting??
+CONVERT
+94 94 0
+starting??
+CONVERT
+3 3 0
+starting??
+CONVERT
+44 44 0
+starting??
+CONVERT
+10 10 0
+starting??
+CONVERT
+10 10 0
+starting??
+CONVERT
+64 64 0
+starting??
+CONVERT
+37 37 0
+starting??
+CONVERT
+65 65 0
+starting??
+CONVERT
+21 21 0
+starting??
+CONVERT
+1 1 0
+starting??
+CONVERT
+20 20 0
+starting??
+CONVERT
+81 81 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+62 62 0
+starting??
+CONVERT
+35 35 0
+starting??
+CONVERT
+47 47 0
+starting??
+CONVERT
+16 16 0
+starting??
+CONVERT
+3 7 -4
+starting??
+CONVERT
+34 38 -4
+starting??
+CONVERT
+29 33 -4
+starting??
+CONVERT
+47 51 -4
+starting??
+CONVERT
+23 27 -4
+starting??
+CONVERT
+9 13 -4
+starting??
+CONVERT
+86 90 -4
+starting??
+CONVERT
+83 87 -4
+starting??
+CONVERT
+42 46 -4
+starting??
+CONVERT
+28 32 -4
+starting??
+CONVERT
+2 6 -4
+starting??
+CONVERT
+34 38 -4
+starting??
+CONVERT
+19 23 -4
+starting??
+CONVERT
+1 5 -4
+starting??
+CONVERT
+5 9 -4
+starting??
+CONVERT
+8 12 -4
+starting??
+CONVERT
+72 76 -4
+starting??
+CONVERT
+11 15 -4
+starting??
+CONVERT
+4 8 -4
+starting??
+CONVERT
+5 9 -4
+starting??
+CONVERT
+75 79 -4
+starting??
+CONVERT
+80 84 -4
+starting??
+CONVERT
+77 81 -4
+starting??
+CONVERT
+9 13 -4
+starting??
+CONVERT
+10 14 -4
+starting??
+CONVERT
+78 85 -7
+starting??
+CONVERT
+32 37 -5
+starting??
+CONVERT
+48 54 -6
+starting??
+CONVERT
+22 28 -6
+starting??
+CONVERT
+23 30 -7
+starting??
+CONVERT
+48 55 -7
+starting??
+CONVERT
+11 18 -7
+starting??
+CONVERT
+59 64 -5
+starting??
+CONVERT
+47 54 -7
+starting??
+CONVERT
+29 36 -7
+starting??
+CONVERT
+57 62 -5
+starting??
+CONVERT
+43 50 -7
+starting??
+CONVERT
+12 19 -7
+starting??
+CONVERT
+48 54 -6
+starting??
+CONVERT
+38 44 -6
+starting??
+CONVERT
+56 62 -6
+starting??
+CONVERT
+64 69 -5
+starting??
+CONVERT
+53 59 -6
+starting??
+CONVERT
+53 58 -5
+starting??
+CONVERT
+4 11 -7
+starting??
+CONVERT
+34 41 -7
+starting??
+CONVERT
+39 46 -7
+starting??
+CONVERT
+35 42 -7
+starting??
+CONVERT
+75 81 -6
+starting??
+CONVERT
+31 36 -5
+starting??
+CONVERT
+21 19 2
+19 18 1
+18 17 1
+17 16 1
+16 13 3
+[21 19 18 17 16 13 14]  bad level
+starting??
+CONVERT
+73 70 3
+70 67 3
+67 66 1
+[73 70 67 66 66]  bad level
+starting??
+CONVERT
+74 73 1
+73 72 1
+72 70 2
+70 69 1
+[74 73 72 70 69 65]  bad level
+starting??
+CONVERT
+37 36 1
+36 33 3
+33 32 1
+[37 36 33 32 26]  bad level
+starting??
+CONVERT
+54 53 1
+53 52 1
+52 49 3
+49 48 1
+48 51 -3
+[54 53 52 49 48 51 50 48]  bad level
+starting??
+CONVERT
+22 21 1
+21 20 1
+20 17 3
+17 15 2
+15 12 3
+12 14 -2
+[22 21 20 17 15 12 14 15]  bad level
+starting??
+CONVERT
+66 64 2
+64 61 3
+61 64 -3
+[66 64 61 64 61 58 55 55]  bad level
+starting??
+CONVERT
+89 88 1
+88 91 -3
+[89 88 91 90 87 86 85 81]  bad level
+starting??
+CONVERT
+57 56 1
+56 53 3
+53 50 3
+50 51 -1
+[57 56 53 50 51 45]  bad level
+starting??
+CONVERT
+32 31 1
+31 28 3
+28 28 0
+[32 31 28 28 26]  bad level
+starting??
+CONVERT
+51 48 3
+48 45 3
+45 45 0
+[51 48 45 45 43 44]  bad level
+starting??
+CONVERT
+98 95 3
+95 94 1
+94 94 0
+[98 95 94 94 94]  bad level
+starting??
+CONVERT
+16 13 3
+13 13 0
+[16 13 13 10 6]  bad level
+starting??
+CONVERT
+57 54 3
+54 51 3
+51 48 3
+48 46 2
+46 46 0
+[57 54 51 48 46 46 41]  bad level
+starting??
+CONVERT
+60 57 3
+57 54 3
+54 51 3
+51 47 4
+[60 57 54 51 47 46 44]  bad level
+starting??
+CONVERT
+92 90 2
+90 87 3
+87 84 3
+84 80 4
+[92 90 87 84 80 81]  bad level
+starting??
+CONVERT
+15 13 2
+13 12 1
+12 8 4
+[15 13 12 8 5 3 2 2]  bad level
+starting??
+CONVERT
+83 82 1
+82 79 3
+79 78 1
+78 77 1
+77 76 1
+76 72 4
+[83 82 79 78 77 76 72 68]  bad level
+starting??
+CONVERT
+62 59 3
+59 56 3
+56 54 2
+54 50 4
+[62 59 56 54 50 43]  bad level
+starting??
+CONVERT
+84 82 2
+82 81 1
+81 78 3
+78 73 5
+[84 82 81 78 73 70]  bad level
+starting??
+CONVERT
+75 72 3
+72 71 1
+71 64 7
+[75 72 71 64 63 65]  bad level
+starting??
+CONVERT
+99 97 2
+97 92 5
+[99 97 92 91 89 88 88]  bad level
+starting??
+CONVERT
+43 41 2
+41 40 1
+40 39 1
+39 38 1
+38 35 3
+35 30 5
+[43 41 40 39 38 35 30 26]  bad level
+starting??
+CONVERT
+62 61 1
+61 59 2
+59 52 7
+[62 61 59 52 47]  bad level
+starting??
+CONVERT
+69 72 -3
+72 69 3
+[69 72 69 67 66 63 62]  bad level
+starting??
+CONVERT
+31 33 -2
+33 30 3
+[31 33 30 27 29]  bad level
+starting??
+CONVERT
+6 7 -1
+7 5 2
+[6 7 5 4 2 2]  bad level
+starting??
+CONVERT
+32 35 -3
+35 32 3
+[32 35 32 30 29 25]  bad level
+starting??
+CONVERT
+77 80 -3
+80 79 1
+[77 80 79 76 73 72 65]  bad level
+starting??
+CONVERT
+15 16 -1
+16 15 1
+[15 16 15 18 15 13]  bad level
+starting??
+CONVERT
+93 94 -1
+94 93 1
+[93 94 93 91 88 89 92]  bad level
+starting??
+CONVERT
+89 91 -2
+91 94 -3
+94 93 1
+[89 91 94 93 92 89 89]  bad level
+starting??
+CONVERT
+33 36 -3
+36 34 2
+[33 36 34 35 32 31 27]  bad level
+starting??
+CONVERT
+84 86 -2
+86 85 1
+[84 86 85 83 85 83 77]  bad level
+starting??
+CONVERT
+52 55 -3
+55 52 3
+[52 55 52 52 51 50]  bad level
+starting??
+CONVERT
+98 99 -1
+99 96 3
+[98 99 96 93 92 92 89 90]  bad level
+starting??
+CONVERT
+76 79 -3
+79 77 2
+[76 79 77 76 73 73 73]  bad level
+starting??
+CONVERT
+18 21 -3
+21 20 1
+[18 21 20 18 16 16 12]  bad level
+starting??
+CONVERT
+57 58 -1
+58 58 0
+[57 58 58 56 55 52 50 44]  bad level
+starting??
+CONVERT
+41 42 -1
+42 40 2
+[41 42 40 39 35 34 31]  bad level
+starting??
+CONVERT
+16 17 -1
+17 15 2
+[16 17 15 13 11 7 8]  bad level
+starting??
+CONVERT
+68 71 -3
+71 67 4
+[68 71 67 64 61 61]  bad level
+starting??
+CONVERT
+82 83 -1
+83 79 4
+[82 83 79 78 77 73]  bad level
+starting??
+CONVERT
+69 71 -2
+71 68 3
+[69 71 68 64 63 61 54]  bad level
+starting??
+CONVERT
+20 22 -2
+22 15 7
+[20 22 15 14 12]  bad level
+starting??
+CONVERT
+49 50 -1
+50 45 5
+[49 50 45 42 43]  bad level
+starting??
+CONVERT
+94 96 -2
+96 89 7
+[94 96 89 86 86]  bad level
+starting??
+CONVERT
+41 43 -2
+43 40 3
+[41 43 40 38 35 32 26 22]  bad level
+starting??
+CONVERT
+23 24 -1
+24 18 6
+[23 24 18 17 10]  bad level
+starting??
+CONVERT
+27 27 0
+starting??
+CONVERT
+27 27 0
+starting??
+CONVERT
+54 54 0
+starting??
+CONVERT
+81 81 0
+starting??
+CONVERT
+52 52 0
+starting??
+CONVERT
+43 43 0
+starting??
+CONVERT
+74 74 0
+starting??
+CONVERT
+84 84 0
+starting??
+CONVERT
+12 12 0
+starting??
+CONVERT
+67 67 0
+starting??
+CONVERT
+33 33 0
+starting??
+CONVERT
+6 6 0
+starting??
+CONVERT
+32 32 0
+starting??
+CONVERT
+17 17 0
+starting??
+CONVERT
+46 46 0
+starting??
+CONVERT
+45 45 0
+starting??
+CONVERT
+21 21 0
+starting??
+CONVERT
+67 67 0
+starting??
+CONVERT
+53 53 0
+starting??
+CONVERT
+39 39 0
+starting??
+CONVERT
+67 67 0
+starting??
+CONVERT
+67 67 0
+starting??
+CONVERT
+76 76 0
+starting??
+CONVERT
+45 45 0
+starting??
+CONVERT
+99 99 0
+starting??
+CONVERT
+16 12 4
+starting??
+CONVERT
+32 28 4
+starting??
+CONVERT
+40 36 4
+starting??
+CONVERT
+86 82 4
+starting??
+CONVERT
+55 51 4
+starting??
+CONVERT
+68 64 4
+starting??
+CONVERT
+57 53 4
+starting??
+CONVERT
+56 52 4
+starting??
+CONVERT
+28 24 4
+starting??
+CONVERT
+99 95 4
+starting??
+CONVERT
+69 65 4
+starting??
+CONVERT
+46 42 4
+starting??
+CONVERT
+34 30 4
+starting??
+CONVERT
+74 70 4
+starting??
+CONVERT
+31 27 4
+starting??
+CONVERT
+70 66 4
+starting??
+CONVERT
+98 94 4
+starting??
+CONVERT
+18 14 4
+starting??
+CONVERT
+92 88 4
+starting??
+CONVERT
+97 93 4
+starting??
+CONVERT
+22 18 4
+starting??
+CONVERT
+39 35 4
+starting??
+CONVERT
+24 20 4
+starting??
+CONVERT
+30 26 4
+starting??
+CONVERT
+88 84 4
+starting??
+CONVERT
+72 67 5
+starting??
+CONVERT
+32 26 6
+starting??
+CONVERT
+34 27 7
+starting??
+CONVERT
+21 15 6
+starting??
+CONVERT
+86 80 6
+starting??
+CONVERT
+85 79 6
+starting??
+CONVERT
+65 58 7
+starting??
+CONVERT
+82 77 5
+starting??
+CONVERT
+47 40 7
+starting??
+CONVERT
+57 50 7
+starting??
+CONVERT
+42 35 7
+starting??
+CONVERT
+38 31 7
+starting??
+CONVERT
+98 93 5
+starting??
+CONVERT
+59 54 5
+starting??
+CONVERT
+59 53 6
+starting??
+CONVERT
+87 81 6
+starting??
+CONVERT
+49 42 7
+starting??
+CONVERT
+46 41 5
+starting??
+CONVERT
+51 44 7
+starting??
+CONVERT
+47 41 6
+starting??
+CONVERT
+69 62 7
+starting??
+CONVERT
+73 67 6
+starting??
+CONVERT
+35 30 5
+starting??
+CONVERT
+24 17 7
+starting??
+CONVERT
+75 69 6
+starting??
+CONVERT
+28 32 -4
+starting??
+CONVERT
+4 1 3
+1 3 -2
+[4 1 3 1 1]  bad level
+starting??
+CONVERT
+26 32 -6
+starting??
+CONVERT
+48 44 4
+starting??
+CONVERT
+43 43 0
+starting??
+CONVERT
+71 67 4
+starting??
+CONVERT
+84 80 4
+starting??
+CONVERT
+57 61 -4
+starting??
+CONVERT
+78 83 -5
+starting??
+CONVERT
+52 52 0
+starting??
+CONVERT
+75 75 0
+starting??
+CONVERT
+14 15 -1
+15 13 2
+[14 15 13 12 13 16]  bad level
+starting??
+CONVERT
+54 58 -4
+starting??
+CONVERT
+52 54 -2
+54 55 -1
+55 60 -5
+[52 54 55 60 60]  bad level
+starting??
+CONVERT
+56 56 0
+starting??
+CONVERT
+48 51 -3
+51 53 -2
+53 56 -3
+56 57 -1
+57 61 -4
+[48 51 53 56 57 61 64]  bad level
+starting??
+CONVERT
+61 68 -7
+starting??
+CONVERT
+43 43 0
+starting??
+CONVERT
+42 40 2
+40 39 1
+39 38 1
+38 37 1
+37 34 3
+34 31 3
+[42 40 39 38 37 34 31 31]  bad level
+starting??
+CONVERT
+92 92 0
+starting??
+CONVERT
+52 50 2
+50 48 2
+48 45 3
+[52 50 48 45 48]  bad level
+starting??
+CONVERT
+68 65 3
+65 67 -2
+[68 65 67 71 71]  bad level
+starting??
+CONVERT
+48 45 3
+45 47 -2
+[48 45 47 49 51 52 52]  bad level
+starting??
+CONVERT
+72 72 0
+starting??
+CONVERT
+83 79 4
+starting??
+CONVERT
+32 38 -6
+starting??
+CONVERT
+30 33 -3
+33 35 -2
+35 35 0
+[30 33 35 35 40]  bad level
+starting??
+CONVERT
+85 78 7
+starting??
+CONVERT
+65 69 -4
+starting??
+CONVERT
+99 94 5
+starting??
+CONVERT
+6 5 1
+5 7 -2
+[6 5 7 6 6]  bad level
+starting??
+CONVERT
+7 5 2
+5 3 2
+3 5 -2
+[7 5 3 5 8 13]  bad level
+starting??
+CONVERT
+78 79 -1
+79 77 2
+[78 79 77 75 73 66 59]  bad level
+starting??
+CONVERT
+44 42 2
+42 41 1
+41 39 2
+39 36 3
+36 32 4
+[44 42 41 39 36 32 30]  bad level
+starting??
+CONVERT
+7 9 -2
+9 11 -2
+11 12 -1
+12 14 -2
+14 17 -3
+17 24 -7
+[7 9 11 12 14 17 24 28]  bad level
+starting??
+CONVERT
+32 36 -4
+starting??
+CONVERT
+45 49 -4
+starting??
+CONVERT
+66 60 6
+starting??
+CONVERT
+24 27 -3
+27 28 -1
+28 33 -5
+[24 27 28 33 34]  bad level
+starting??
+CONVERT
+27 29 -2
+29 25 4
+[27 29 25 23 22 24]  bad level
+starting??
+CONVERT
+59 58 1
+58 60 -2
+[59 58 60 59 57 50]  bad level
+starting??
+CONVERT
+69 72 -3
+72 73 -1
+73 75 -2
+75 76 -1
+76 76 0
+[69 72 73 75 76 76 80]  bad level
+starting??
+CONVERT
+56 51 5
+starting??
+CONVERT
+17 18 -1
+18 17 1
+[17 18 17 14 10 8 5]  bad level
+starting??
+CONVERT
+32 33 -1
+33 34 -1
+34 36 -2
+36 36 0
+[32 33 34 36 36 36]  bad level
+starting??
+CONVERT
+24 29 -5
+starting??
+CONVERT
+49 49 0
+starting??
+CONVERT
+62 62 0
+starting??
+CONVERT
+49 55 -6
+starting??
+CONVERT
+44 46 -2
+46 43 3
+[44 46 43 42 39 35 28]  bad level
+starting??
+CONVERT
+54 54 0
+starting??
+CONVERT
+82 78 4
+starting??
+CONVERT
+30 31 -1
+31 30 1
+[30 31 30 28 22 20 17 19]  bad level
+starting??
+CONVERT
+79 76 3
+76 75 1
+75 78 -3
+[79 76 75 78 79]  bad level
+starting??
+CONVERT
+60 57 3
+57 59 -2
+[60 57 59 62 59]  bad level
+starting??
+CONVERT
+74 72 2
+72 73 -1
+[74 72 73 74 79 84]  bad level
+starting??
+CONVERT
+35 31 4
+starting??
+CONVERT
+66 65 1
+65 63 2
+63 61 2
+61 61 0
+[66 65 63 61 61 58 59]  bad level
+starting??
+CONVERT
+21 19 2
+19 26 -7
+[21 19 26 27 29 32 32]  bad level
+starting??
+CONVERT
+49 46 3
+46 47 -1
+[49 46 47 47 47]  bad level
+starting??
+CONVERT
+79 85 -6
+starting??
+CONVERT
+71 74 -3
+74 69 5
+[71 74 69 66 64 62 60 59]  bad level
+starting??
+CONVERT
+57 61 -4
+starting??
+CONVERT
+18 20 -2
+20 23 -3
+23 23 0
+[18 20 23 23 24 26 24]  bad level
+starting??
+CONVERT
+69 69 0
+starting??
+CONVERT
+75 70 5
+starting??
+CONVERT
+46 46 0
+starting??
+CONVERT
+93 95 -2
+95 95 0
+[93 95 95 94 93]  bad level
+starting??
+CONVERT
+36 36 0
+starting??
+CONVERT
+58 62 -4
+starting??
+CONVERT
+19 15 4
+starting??
+CONVERT
+63 61 2
+61 63 -2
+[63 61 63 61 60 59 58 54]  bad level
+starting??
+CONVERT
+53 53 0
+starting??
+CONVERT
+17 21 -4
+starting??
+CONVERT
+31 24 7
+starting??
+CONVERT
+45 45 0
+starting??
+CONVERT
+11 17 -6
+starting??
+CONVERT
+27 27 0
+starting??
+CONVERT
+96 98 -2
+98 95 3
+[96 98 95 95 95]  bad level
+starting??
+CONVERT
+39 39 0
+starting??
+CONVERT
+22 24 -2
+24 18 6
+[22 24 18 17 13]  bad level
+starting??
+CONVERT
+13 17 -4
+starting??
+CONVERT
+55 62 -7
+starting??
+CONVERT
+89 82 7
+starting??
+CONVERT
+90 90 0
+starting??
+CONVERT
+78 73 5
+starting??
+CONVERT
+32 39 -7
+starting??
+CONVERT
+78 76 2
+76 77 -1
+[78 76 77 78 82 89]  bad level
+starting??
+CONVERT
+23 23 0
+starting??
+CONVERT
+63 65 -2
+65 64 1
+[63 65 64 64 65]  bad level
+starting??
+CONVERT
+2 6 -4
+starting??
+CONVERT
+53 48 5
+starting??
+CONVERT
+35 30 5
+starting??
+CONVERT
+36 36 0
+starting??
+CONVERT
+42 43 -1
+43 44 -1
+44 47 -3
+47 46 1
+[42 43 44 47 46 49]  bad level
+starting??
+CONVERT
+61 67 -6
+starting??
+CONVERT
+63 60 3
+60 65 -5
+[63 60 65 67 70 67]  bad level
+starting??
+CONVERT
+10 10 0
+starting??
+CONVERT
+40 42 -2
+42 46 -4
+[40 42 46 49 50 50]  bad level
+starting??
+CONVERT
+54 61 -7
+starting??
+CONVERT
+85 84 1
+84 82 2
+82 80 2
+80 78 2
+78 76 2
+76 76 0
+[85 84 82 80 78 76 76 70]  bad level
+starting??
+CONVERT
+63 67 -4
+starting??
+CONVERT
+84 83 1
+83 81 2
+81 79 2
+79 78 1
+[84 83 81 79 78 77]  bad level
+starting??
+CONVERT
+30 31 -1
+31 32 -1
+32 34 -2
+34 37 -3
+37 40 -3
+40 41 -1
+[30 31 32 34 37 40 41 43]  bad level
+starting??
+CONVERT
+36 37 -1
+37 39 -2
+39 40 -1
+40 42 -2
+42 44 -2
+[36 37 39 40 42 44 46]  bad level
+starting??
+CONVERT
+91 89 2
+89 87 2
+87 86 1
+[91 89 87 86 83]  bad level
+starting??
+CONVERT
+85 83 2
+83 80 3
+80 79 1
+[85 83 80 79 76]  bad level
+starting??
+CONVERT
+89 88 1
+88 85 3
+85 83 2
+[89 88 85 83 81]  bad level
+starting??
+CONVERT
+36 33 3
+33 32 1
+32 29 3
+29 26 3
+26 24 2
+[36 33 32 29 26 24 23]  bad level
+starting??
+CONVERT
+36 39 -3
+39 40 -1
+40 43 -3
+43 45 -2
+45 46 -1
+46 48 -2
+[36 39 40 43 45 46 48 49]  bad level
+starting??
+CONVERT
+64 61 3
+61 59 2
+59 58 1
+58 56 2
+56 55 1
+55 52 3
+[64 61 59 58 56 55 52 51]  bad level
+starting??
+CONVERT
+84 83 1
+83 82 1
+82 80 2
+[84 83 82 80 78]  bad level
+starting??
+CONVERT
+18 19 -1
+19 21 -2
+21 23 -2
+[18 19 21 23 25]  bad level
+starting??
+CONVERT
+15 13 2
+13 11 2
+11 10 1
+10 7 3
+[15 13 11 10 7 4]  bad level
+starting??
+CONVERT
+42 43 -1
+43 46 -3
+46 49 -3
+49 50 -1
+50 52 -2
+[42 43 46 49 50 52 54]  bad level
+starting??
+CONVERT
+38 36 2
+36 35 1
+35 32 3
+32 30 2
+30 28 2
+28 26 2
+[38 36 35 32 30 28 26 23]  bad level
+starting??
+CONVERT
+34 32 2
+32 30 2
+30 28 2
+[34 32 30 28 25]  bad level
+starting??
+CONVERT
+46 44 2
+44 42 2
+42 40 2
+40 37 3
+[46 44 42 40 37 34]  bad level
+starting??
+CONVERT
+37 36 1
+36 35 1
+35 33 2
+33 30 3
+30 27 3
+27 26 1
+[37 36 35 33 30 27 26 25]  bad level
+starting??
+CONVERT
+75 74 1
+74 71 3
+71 69 2
+69 68 1
+68 65 3
+[75 74 71 69 68 65 62]  bad level
+starting??
+CONVERT
+34 37 -3
+37 38 -1
+38 39 -1
+39 42 -3
+42 43 -1
+[34 37 38 39 42 43 46]  bad level
+starting??
+CONVERT
+69 68 1
+68 66 2
+66 65 1
+65 64 1
+[69 68 66 65 64 63]  bad level
+starting??
+CONVERT
+58 59 -1
+59 62 -3
+62 63 -1
+[58 59 62 63 66]  bad level
+starting??
+CONVERT
+81 78 3
+78 76 2
+76 73 3
+[81 78 76 73 72]  bad level
+starting??
+CONVERT
+86 84 2
+84 83 1
+83 80 3
+80 78 2
+78 76 2
+76 74 2
+[86 84 83 80 78 76 74 73]  bad level
+starting??
+CONVERT
+63 61 2
+61 58 3
+58 57 1
+57 56 1
+56 54 2
+54 53 1
+[63 61 58 57 56 54 53 52]  bad level
+starting??
+CONVERT
+40 37 3
+37 34 3
+34 33 1
+33 31 2
+31 28 3
+[40 37 34 33 31 28 27]  bad level
+starting??
+CONVERT
+46 43 3
+43 40 3
+40 37 3
+37 36 1
+[46 43 40 37 36 34]  bad level
+starting??
+CONVERT
+8 9 -1
+9 11 -2
+11 13 -2
+13 14 -1
+[8 9 11 13 14 17]  bad level
+starting??
+CONVERT
+29 26 3
+26 25 1
+25 23 2
+23 21 2
+21 18 3
+[29 26 25 23 21 18 15]  bad level
+starting??
+CONVERT
+2 5 -3
+5 7 -2
+7 8 -1
+8 11 -3
+11 14 -3
+14 15 -1
+[2 5 7 8 11 14 15 16]  bad level
+starting??
+CONVERT
+71 69 2
+69 67 2
+67 66 1
+66 65 1
+65 63 2
+[71 69 67 66 65 63 62]  bad level
+starting??
+CONVERT
+13 14 -1
+14 15 -1
+15 16 -1
+16 19 -3
+[13 14 15 16 19 21]  bad level
+starting??
+CONVERT
+23 25 -2
+25 28 -3
+28 29 -1
+29 30 -1
+30 31 -1
+[23 25 28 29 30 31 34]  bad level
+starting??
+CONVERT
+20 22 -2
+22 24 -2
+24 25 -1
+25 28 -3
+[20 22 24 25 28 31]  bad level
+starting??
+CONVERT
+85 84 1
+84 82 2
+82 79 3
+79 77 2
+77 75 2
+75 74 1
+[85 84 82 79 77 75 74 72]  bad level
+starting??
+CONVERT
+79 78 1
+78 77 1
+77 74 3
+74 71 3
+71 68 3
+68 65 3
+[79 78 77 74 71 68 65 64]  bad level
+starting??
+CONVERT
+72 70 2
+70 67 3
+67 66 1
+66 64 2
+64 63 1
+[72 70 67 66 64 63 62]  bad level
+starting??
+CONVERT
+80 77 3
+77 76 1
+76 75 1
+75 72 3
+72 71 1
+[80 77 76 75 72 71 68]  bad level
+starting??
+CONVERT
+40 42 -2
+42 44 -2
+44 45 -1
+45 47 -2
+[40 42 44 45 47 50]  bad level
+starting??
+CONVERT
+91 89 2
+89 88 1
+88 87 1
+87 85 2
+85 83 2
+[91 89 88 87 85 83 81]  bad level
+starting??
+CONVERT
+53 52 1
+52 49 3
+49 48 1
+48 46 2
+46 44 2
+[53 52 49 48 46 44 42]  bad level
+starting??
+CONVERT
+44 47 -3
+47 49 -2
+49 51 -2
+51 53 -2
+53 54 -1
+54 57 -3
+[44 47 49 51 53 54 57 59]  bad level
+starting??
+CONVERT
+66 65 1
+65 63 2
+63 62 1
+62 59 3
+[66 65 63 62 59 56]  bad level
+starting??
+CONVERT
+33 34 -1
+34 36 -2
+36 37 -1
+[33 34 36 37 40]  bad level
+starting??
+CONVERT
+80 81 -1
+81 82 -1
+82 84 -2
+84 87 -3
+[80 81 82 84 87 89]  bad level
+starting??
+CONVERT
+26 29 -3
+29 30 -1
+30 31 -1
+31 32 -1
+32 34 -2
+34 35 -1
+[26 29 30 31 32 34 35 38]  bad level
+starting??
+CONVERT
+63 60 3
+60 59 1
+59 57 2
+57 56 1
+[63 60 59 57 56 54]  bad level
+starting??
+CONVERT
+67 70 -3
+70 72 -2
+72 75 -3
+75 77 -2
+77 80 -3
+[67 70 72 75 77 80 81]  bad level
+starting??
+CONVERT
+77 76 1
+76 74 2
+74 73 1
+73 72 1
+72 69 3
+69 67 2
+[77 76 74 73 72 69 67 66]  bad level
+starting??
+CONVERT
+73 75 -2
+75 77 -2
+77 80 -3
+80 81 -1
+81 84 -3
+[73 75 77 80 81 84 87]  bad level
+starting??
+CONVERT
+97 94 3
+94 91 3
+91 90 1
+90 89 1
+[97 94 91 90 89 87]  bad level
+starting??
+CONVERT
+49 51 -2
+51 52 -1
+52 55 -3
+55 57 -2
+[49 51 52 55 57 59]  bad level
+starting??
+CONVERT
+77 79 -2
+79 81 -2
+81 83 -2
+83 86 -3
+86 88 -2
+[77 79 81 83 86 88 91]  bad level
+starting??
+CONVERT
+88 91 -3
+91 94 -3
+94 95 -1
+[88 91 94 95 96]  bad level
+starting??
+CONVERT
+13 12 1
+12 9 3
+9 8 1
+[13 12 9 8 5]  bad level
+starting??
+CONVERT
+36 35 1
+35 33 2
+33 32 1
+[36 35 33 32 31]  bad level
+starting??
+CONVERT
+87 85 2
+85 84 1
+84 82 2
+[87 85 84 82 79]  bad level
+starting??
+CONVERT
+25 28 -3
+28 31 -3
+31 34 -3
+34 36 -2
+36 39 -3
+39 41 -2
+[25 28 31 34 36 39 41 43]  bad level
+starting??
+CONVERT
+75 78 -3
+78 81 -3
+81 82 -1
+82 84 -2
+84 87 -3
+87 89 -2
+[75 78 81 82 84 87 89 92]  bad level
+starting??
+CONVERT
+28 31 -3
+31 33 -2
+33 36 -3
+36 39 -3
+39 41 -2
+41 43 -2
+[28 31 33 36 39 41 43 44]  bad level
+starting??
+CONVERT
+11 14 -3
+14 16 -2
+16 17 -1
+[11 14 16 17 19]  bad level
+starting??
+CONVERT
+80 79 1
+79 76 3
+76 75 1
+75 72 3
+72 69 3
+69 68 1
+[80 79 76 75 72 69 68 67]  bad level
+starting??
+CONVERT
+80 83 -3
+83 84 -1
+84 86 -2
+86 88 -2
+88 89 -1
+[80 83 84 86 88 89 91]  bad level
+starting??
+CONVERT
+13 14 -1
+14 17 -3
+17 20 -3
+20 22 -2
+22 24 -2
+[13 14 17 20 22 24 27]  bad level
+starting??
+CONVERT
+17 20 -3
+20 23 -3
+23 25 -2
+25 26 -1
+26 28 -2
+28 30 -2
+[17 20 23 25 26 28 30 31]  bad level
+starting??
+CONVERT
+47 48 -1
+48 50 -2
+50 53 -3
+53 55 -2
+[47 48 50 53 55 57]  bad level
+starting??
+CONVERT
+61 62 -1
+62 65 -3
+65 68 -3
+68 71 -3
+[61 62 65 68 71 74]  bad level
+starting??
+CONVERT
+70 69 1
+69 68 1
+68 67 1
+67 66 1
+[70 69 68 67 66 65]  bad level
+starting??
+CONVERT
+91 90 1
+90 87 3
+87 86 1
+86 84 2
+84 83 1
+[91 90 87 86 84 83 80]  bad level
+starting??
+CONVERT
+65 66 -1
+66 68 -2
+68 71 -3
+71 74 -3
+74 75 -1
+75 77 -2
+[65 66 68 71 74 75 77 80]  bad level
+starting??
+CONVERT
+21 18 3
+18 15 3
+15 12 3
+12 9 3
+9 7 2
+[21 18 15 12 9 7 6]  bad level
+starting??
+CONVERT
+17 20 -3
+20 21 -1
+21 22 -1
+22 25 -3
+[17 20 21 22 25 28]  bad level
+starting??
+CONVERT
+79 80 -1
+80 81 -1
+81 83 -2
+83 86 -3
+[79 80 81 83 86 87]  bad level
+starting??
+CONVERT
+21 18 3
+18 17 1
+17 15 2
+[21 18 17 15 13]  bad level
+starting??
+CONVERT
+96 95 1
+95 92 3
+92 89 3
+[96 95 92 89 88]  bad level
+starting??
+CONVERT
+67 66 1
+66 64 2
+64 62 2
+62 59 3
+[67 66 64 62 59 58]  bad level
+starting??
+CONVERT
+20 17 3
+17 14 3
+14 13 1
+13 11 2
+11 8 3
+8 6 2
+[20 17 14 13 11 8 6 4]  bad level
+starting??
+CONVERT
+41 38 3
+38 37 1
+37 34 3
+34 33 1
+33 31 2
+[41 38 37 34 33 31 29]  bad level
+starting??
+CONVERT
+47 44 3
+44 41 3
+41 39 2
+[47 44 41 39 37]  bad level
+starting??
+CONVERT
+11 8 3
+8 6 2
+6 4 2
+4 3 1
+3 2 1
+[11 8 6 4 3 2 1]  bad level
+starting??
+CONVERT
+62 61 1
+61 59 2
+59 56 3
+56 53 3
+53 52 1
+[62 61 59 56 53 52 49]  bad level
+starting??
+CONVERT
+53 50 3
+50 48 2
+48 45 3
+45 43 2
+43 40 3
+40 37 3
+[53 50 48 45 43 40 37 34]  bad level
+starting??
+CONVERT
+62 59 3
+59 58 1
+58 57 1
+57 56 1
+56 53 3
+[62 59 58 57 56 53 51]  bad level
+starting??
+CONVERT
+47 44 3
+44 43 1
+43 42 1
+42 41 1
+41 40 1
+[47 44 43 42 41 40 37]  bad level
+starting??
+CONVERT
+39 40 -1
+40 42 -2
+42 43 -1
+43 46 -3
+46 48 -2
+[39 40 42 43 46 48 49]  bad level
+starting??
+CONVERT
+86 83 3
+83 80 3
+80 78 2
+78 75 3
+75 72 3
+72 71 1
+[86 83 80 78 75 72 71 68]  bad level
+starting??
+CONVERT
+5 6 -1
+6 8 -2
+8 9 -1
+9 12 -3
+12 13 -1
+[5 6 8 9 12 13 14]  bad level
+starting??
+CONVERT
+33 34 -1
+34 37 -3
+37 40 -3
+40 41 -1
+[33 34 37 40 41 42]  bad level
+starting??
+CONVERT
+92 89 3
+89 86 3
+86 83 3
+83 80 3
+[92 89 86 83 80 78]  bad level
+starting??
+CONVERT
+82 85 -3
+85 87 -2
+87 89 -2
+89 92 -3
+92 93 -1
+[82 85 87 89 92 93 95]  bad level
+starting??
+CONVERT
+70 68 2
+68 66 2
+66 64 2
+64 63 1
+63 62 1
+[70 68 66 64 63 62 59]  bad level
+starting??
+CONVERT
+65 63 2
+63 60 3
+60 59 1
+59 56 3
+56 53 3
+[65 63 60 59 56 53 51]  bad level
+starting??
+CONVERT
+4 7 -3
+7 8 -1
+8 10 -2
+10 11 -1
+11 14 -3
+[4 7 8 10 11 14 15]  bad level
+starting??
+CONVERT
+63 65 -2
+65 68 -3
+68 71 -3
+71 74 -3
+74 75 -1
+[63 65 68 71 74 75 77]  bad level
+starting??
+CONVERT
+58 60 -2
+60 62 -2
+62 64 -2
+64 65 -1
+65 68 -3
+[58 60 62 64 65 68 69]  bad level
+starting??
+CONVERT
+10 11 -1
+11 13 -2
+13 16 -3
+[10 11 13 16 19]  bad level
+starting??
+CONVERT
+55 56 -1
+56 58 -2
+58 61 -3
+[55 56 58 61 62]  bad level
+starting??
+CONVERT
+38 36 2
+36 34 2
+34 32 2
+32 31 1
+31 29 2
+[38 36 34 32 31 29 27]  bad level
+starting??
+CONVERT
+28 25 3
+25 23 2
+23 20 3
+20 17 3
+[28 25 23 20 17 14]  bad level
+starting??
+CONVERT
+8 9 -1
+9 11 -2
+11 13 -2
+13 14 -1
+14 17 -3
+[8 9 11 13 14 17 18]  bad level
+starting??
+CONVERT
+2 4 -2
+4 5 -1
+5 8 -3
+[2 4 5 8 9]  bad level
+starting??
+CONVERT
+34 36 -2
+36 39 -3
+39 41 -2
+41 43 -2
+43 44 -1
+44 45 -1
+[34 36 39 41 43 44 45 46]  bad level
+starting??
+CONVERT
+30 31 -1
+31 32 -1
+32 35 -3
+35 36 -1
+36 37 -1
+[30 31 32 35 36 37 38]  bad level
+starting??
+CONVERT
+88 87 1
+87 86 1
+86 83 3
+[88 87 86 83 80]  bad level
+starting??
+CONVERT
+29 30 -1
+30 31 -1
+31 34 -3
+34 37 -3
+37 40 -3
+[29 30 31 34 37 40 41]  bad level
+starting??
+CONVERT
+14 16 -2
+16 19 -3
+19 22 -3
+[14 16 19 22 25]  bad level
+starting??
+CONVERT
+75 74 1
+74 71 3
+71 68 3
+[75 74 71 68 67]  bad level
+starting??
+CONVERT
+88 91 -3
+91 94 -3
+94 97 -3
+[88 91 94 97 98]  bad level
+starting??
+CONVERT
+79 76 3
+76 75 1
+75 73 2
+73 71 2
+71 69 2
+69 66 3
+[79 76 75 73 71 69 66 65]  bad level
+starting??
+CONVERT
+91 90 1
+90 87 3
+87 85 2
+85 84 1
+[91 90 87 85 84 81]  bad level
+starting??
+CONVERT
+95 94 1
+94 92 2
+92 91 1
+91 88 3
+[95 94 92 91 88 85]  bad level
+starting??
+CONVERT
+85 82 3
+82 79 3
+79 77 2
+77 76 1
+76 75 1
+75 72 3
+[85 82 79 77 76 75 72 70]  bad level
+starting??
+CONVERT
+17 20 -3
+20 21 -1
+21 24 -3
+24 27 -3
+27 30 -3
+[17 20 21 24 27 30 32]  bad level
+starting??
+CONVERT
+70 68 2
+68 67 1
+67 65 2
+65 62 3
+62 60 2
+[70 68 67 65 62 60 58]  bad level
+starting??
+CONVERT
+64 65 -1
+65 68 -3
+68 71 -3
+[64 65 68 71 73]  bad level
+starting??
+CONVERT
+38 35 3
+35 34 1
+34 32 2
+32 31 1
+[38 35 34 32 31 30]  bad level
+starting??
+CONVERT
+79 78 1
+78 76 2
+76 75 1
+[79 78 76 75 74]  bad level
+starting??
+CONVERT
+67 69 -2
+69 72 -3
+72 75 -3
+75 77 -2
+[67 69 72 75 77 78]  bad level
+starting??
+CONVERT
+61 64 -3
+64 66 -2
+66 67 -1
+67 68 -1
+[61 64 66 67 68 69]  bad level
+starting??
+CONVERT
+56 53 3
+53 50 3
+50 48 2
+[56 53 50 48 45]  bad level
+starting??
+CONVERT
+60 61 -1
+61 63 -2
+63 64 -1
+[60 61 63 64 67]  bad level
+starting??
+CONVERT
+7 9 -2
+9 11 -2
+11 14 -3
+14 17 -3
+17 19 -2
+19 20 -1
+[7 9 11 14 17 19 20 21]  bad level
+starting??
+CONVERT
+4 7 -3
+7 10 -3
+10 12 -2
+[4 7 10 12 13]  bad level
+starting??
+CONVERT
+67 66 1
+66 64 2
+64 61 3
+61 58 3
+[67 66 64 61 58 56]  bad level
+starting??
+CONVERT
+64 63 1
+63 61 2
+61 58 3
+58 56 2
+56 53 3
+53 52 1
+[64 63 61 58 56 53 52 49]  bad level
+starting??
+CONVERT
+67 66 1
+66 64 2
+64 62 2
+62 60 2
+60 57 3
+[67 66 64 62 60 57 55]  bad level
+starting??
+CONVERT
+45 48 -3
+48 49 -1
+49 52 -3
+52 55 -3
+[45 48 49 52 55 58]  bad level
+starting??
+CONVERT
+17 19 -2
+19 22 -3
+22 24 -2
+[17 19 22 24 27]  bad level
+starting??
+CONVERT
+44 42 2
+42 40 2
+40 38 2
+38 36 2
+36 33 3
+[44 42 40 38 36 33 31]  bad level
+starting??
+CONVERT
+44 42 2
+42 39 3
+39 38 1
+38 36 2
+[44 42 39 38 36 35]  bad level
+starting??
+CONVERT
+89 86 3
+86 85 1
+85 82 3
+82 80 2
+[89 86 85 82 80 79]  bad level
+starting??
+CONVERT
+3 5 -2
+5 8 -3
+8 10 -2
+10 13 -3
+13 15 -2
+[3 5 8 10 13 15 18]  bad level
+starting??
+CONVERT
+61 63 -2
+63 66 -3
+66 69 -3
+69 70 -1
+70 73 -3
+[61 63 66 69 70 73 75]  bad level
+starting??
+CONVERT
+20 21 -1
+21 23 -2
+23 25 -2
+25 27 -2
+27 29 -2
+29 32 -3
+[20 21 23 25 27 29 32 34]  bad level
+starting??
+CONVERT
+15 16 -1
+16 18 -2
+18 21 -3
+21 22 -1
+[15 16 18 21 22 23]  bad level
+starting??
+CONVERT
+76 74 2
+74 71 3
+71 68 3
+68 65 3
+65 62 3
+[76 74 71 68 65 62 60]  bad level
+starting??
+CONVERT
+11 13 -2
+13 16 -3
+16 17 -1
+17 18 -1
+[11 13 16 17 18 19]  bad level
+starting??
+CONVERT
+89 87 2
+87 85 2
+85 84 1
+[89 87 85 84 83]  bad level
+starting??
+CONVERT
+79 81 -2
+81 82 -1
+82 83 -1
+[79 81 82 83 86]  bad level
+starting??
+CONVERT
+25 26 -1
+26 28 -2
+28 31 -3
+31 32 -1
+32 34 -2
+[25 26 28 31 32 34 36]  bad level
+starting??
+CONVERT
+14 16 -2
+16 18 -2
+18 21 -3
+21 24 -3
+24 26 -2
+[14 16 18 21 24 26 28]  bad level
+starting??
+CONVERT
+37 39 -2
+39 42 -3
+42 44 -2
+44 45 -1
+45 48 -3
+[37 39 42 44 45 48 51]  bad level
+starting??
+CONVERT
+27 29 -2
+29 32 -3
+32 33 -1
+33 35 -2
+35 36 -1
+[27 29 32 33 35 36 39]  bad level
+starting??
+CONVERT
+79 81 -2
+81 83 -2
+83 84 -1
+84 85 -1
+[79 81 83 84 85 87]  bad level
+starting??
+CONVERT
+67 70 -3
+70 73 -3
+73 75 -2
+[67 70 73 75 77]  bad level
+starting??
+CONVERT
+6 7 -1
+7 9 -2
+9 11 -2
+[6 7 9 11 12]  bad level
+starting??
+CONVERT
+18 15 3
+15 12 3
+12 11 1
+[18 15 12 11 9]  bad level
+starting??
+CONVERT
+39 37 2
+37 35 2
+35 33 2
+33 32 1
+32 29 3
+[39 37 35 33 32 29 27]  bad level
+starting??
+CONVERT
+24 25 -1
+25 26 -1
+26 28 -2
+28 30 -2
+30 33 -3
+33 35 -2
+[24 25 26 28 30 33 35 36]  bad level
+starting??
+CONVERT
+11 14 -3
+14 17 -3
+17 19 -2
+19 20 -1
+20 21 -1
+[11 14 17 19 20 21 22]  bad level
+starting??
+CONVERT
+38 35 3
+35 33 2
+33 30 3
+30 27 3
+[38 35 33 30 27 26]  bad level
+starting??
+CONVERT
+63 60 3
+60 59 1
+59 57 2
+57 56 1
+[63 60 59 57 56 53]  bad level
+starting??
+CONVERT
+87 88 -1
+88 91 -3
+91 92 -1
+92 93 -1
+93 94 -1
+94 96 -2
+[87 88 91 92 93 94 96 99]  bad level
+starting??
+CONVERT
+86 87 -1
+87 88 -1
+88 90 -2
+90 91 -1
+[86 87 88 90 91 94]  bad level
+starting??
+CONVERT
+82 85 -3
+85 88 -3
+88 89 -1
+89 91 -2
+91 93 -2
+[82 85 88 89 91 93 95]  bad level
+starting??
+CONVERT
+72 74 -2
+74 75 -1
+75 78 -3
+78 80 -2
+80 82 -2
+[72 74 75 78 80 82 85]  bad level
+starting??
+CONVERT
+62 64 -2
+64 65 -1
+65 68 -3
+68 71 -3
+[62 64 65 68 71 73]  bad level
+starting??
+CONVERT
+94 91 3
+91 88 3
+88 87 1
+[94 91 88 87 85]  bad level
+starting??
+CONVERT
+81 80 1
+80 77 3
+77 76 1
+76 74 2
+74 72 2
+72 69 3
+[81 80 77 76 74 72 69 67]  bad level
+starting??
+CONVERT
+91 92 -1
+92 95 -3
+95 96 -1
+[91 92 95 96 99]  bad level
+starting??
+CONVERT
+79 77 2
+77 75 2
+75 74 1
+74 72 2
+[79 77 75 74 72 71]  bad level
+starting??
+CONVERT
+38 39 -1
+39 42 -3
+42 45 -3
+[38 39 42 45 48]  bad level
+starting??
+CONVERT
+18 19 -1
+19 21 -2
+21 22 -1
+22 25 -3
+25 27 -2
+[18 19 21 22 25 27 28]  bad level
+starting??
+CONVERT
+33 31 2
+31 30 1
+30 27 3
+27 25 2
+25 23 2
+[33 31 30 27 25 23 22]  bad level
+starting??
+CONVERT
+72 73 -1
+73 76 -3
+76 78 -2
+78 81 -3
+81 83 -2
+83 86 -3
+[72 73 76 78 81 83 86 89]  bad level
+starting??
+CONVERT
+80 78 2
+78 76 2
+76 73 3
+73 72 1
+72 69 3
+69 66 3
+[80 78 76 73 72 69 66 64]  bad level
+starting??
+CONVERT
+38 35 3
+35 33 2
+33 31 2
+31 30 1
+[38 35 33 31 30 27]  bad level
+starting??
+CONVERT
+79 76 3
+76 74 2
+74 71 3
+71 69 2
+[79 76 74 71 69 67]  bad level
+starting??
+CONVERT
+38 40 -2
+40 41 -1
+41 42 -1
+42 43 -1
+43 45 -2
+45 47 -2
+[38 40 41 42 43 45 47 50]  bad level
+starting??
+CONVERT
+36 39 -3
+39 42 -3
+42 45 -3
+45 46 -1
+46 47 -1
+[36 39 42 45 46 47 49]  bad level
+starting??
+CONVERT
+23 25 -2
+25 28 -3
+28 29 -1
+29 30 -1
+[23 25 28 29 30 33]  bad level
+starting??
+CONVERT
+91 90 1
+90 88 2
+88 85 3
+85 82 3
+[91 90 88 85 82 81]  bad level
+starting??
+CONVERT
+84 85 -1
+85 86 -1
+86 88 -2
+88 89 -1
+[84 85 86 88 89 90]  bad level
+starting??
+CONVERT
+65 63 2
+63 61 2
+61 60 1
+60 58 2
+[65 63 61 60 58 56]  bad level
+starting??
+CONVERT
+38 36 2
+36 35 1
+35 32 3
+[38 36 35 32 31]  bad level
+starting??
+CONVERT
+85 83 2
+83 82 1
+82 79 3
+79 77 2
+77 75 2
+[85 83 82 79 77 75 72]  bad level
+starting??
+CONVERT
+50 52 -2
+52 55 -3
+55 58 -3
+58 60 -2
+60 62 -2
+[50 52 55 58 60 62 64]  bad level
+starting??
+CONVERT
+62 59 3
+59 56 3
+56 53 3
+[62 59 56 53 52]  bad level
+starting??
+CONVERT
+67 69 -2
+69 71 -2
+71 73 -2
+73 74 -1
+[67 69 71 73 74 76]  bad level
+starting??
+CONVERT
+72 69 3
+69 68 1
+68 66 2
+66 64 2
+[72 69 68 66 64 61]  bad level
+starting??
+CONVERT
+60 62 -2
+62 65 -3
+65 67 -2
+67 68 -1
+68 69 -1
+[60 62 65 67 68 69 70]  bad level
+starting??
+CONVERT
+87 89 -2
+89 90 -1
+90 93 -3
+93 95 -2
+[87 89 90 93 95 96]  bad level
+starting??
+CONVERT
+61 59 2
+59 57 2
+57 55 2
+55 52 3
+52 51 1
+51 48 3
+[61 59 57 55 52 51 48 46]  bad level
+starting??
+CONVERT
+79 81 -2
+81 84 -3
+84 85 -1
+85 88 -3
+[79 81 84 85 88 91]  bad level
+starting??
+CONVERT
+55 52 3
+52 51 1
+51 48 3
+48 47 1
+[55 52 51 48 47 44]  bad level
+starting??
+CONVERT
+96 93 3
+93 91 2
+91 89 2
+89 88 1
+[96 93 91 89 88 86]  bad level
+starting??
+CONVERT
+22 20 2
+20 17 3
+17 16 1
+16 14 2
+[22 20 17 16 14 12]  bad level
+starting??
+CONVERT
+1 4 -3
+4 6 -2
+6 7 -1
+7 10 -3
+10 12 -2
+[1 4 6 7 10 12 13]  bad level
+starting??
+CONVERT
+61 59 2
+59 58 1
+58 55 3
+[61 59 58 55 53]  bad level
+starting??
+CONVERT
+50 47 3
+47 44 3
+44 43 1
+43 42 1
+42 40 2
+40 37 3
+[50 47 44 43 42 40 37 34]  bad level
+starting??
+CONVERT
+17 19 -2
+19 20 -1
+20 23 -3
+[17 19 20 23 26]  bad level
+starting??
+CONVERT
+37 35 2
+35 34 1
+34 33 1
+33 31 2
+31 30 1
+30 28 2
+[37 35 34 33 31 30 28 27]  bad level
+starting??
+CONVERT
+61 63 -2
+63 66 -3
+66 69 -3
+[61 63 66 69 72]  bad level
+starting??
+CONVERT
+75 72 3
+72 69 3
+69 68 1
+[75 72 69 68 66]  bad level
+starting??
+CONVERT
+23 22 1
+22 20 2
+20 19 1
+19 17 2
+17 16 1
+16 15 1
+[23 22 20 19 17 16 15 14]  bad level
+starting??
+CONVERT
+77 80 -3
+80 82 -2
+82 84 -2
+84 85 -1
+[77 80 82 84 85 87]  bad level
+starting??
+CONVERT
+98 95 3
+95 94 1
+94 92 2
+92 90 2
+[98 95 94 92 90 89]  bad level
+starting??
+CONVERT
+57 59 -2
+59 60 -1
+60 63 -3
+63 65 -2
+65 66 -1
+66 67 -1
+[57 59 60 63 65 66 67 69]  bad level
+starting??
+CONVERT
+50 49 1
+49 47 2
+47 44 3
+44 43 1
+[50 49 47 44 43 40]  bad level
+starting??
+CONVERT
+81 80 1
+80 79 1
+79 76 3
+76 74 2
+74 73 1
+73 72 1
+[81 80 79 76 74 73 72 69]  bad level
+starting??
+CONVERT
+36 37 -1
+37 39 -2
+39 40 -1
+40 41 -1
+[36 37 39 40 41 44]  bad level
+starting??
+CONVERT
+37 36 1
+36 34 2
+34 31 3
+[37 36 34 31 28]  bad level
+starting??
+CONVERT
+27 24 3
+24 23 1
+23 21 2
+[27 24 23 21 18]  bad level
+starting??
+CONVERT
+4 6 -2
+6 9 -3
+9 11 -2
+11 12 -1
+[4 6 9 11 12 15]  bad level
+starting??
+CONVERT
+2 4 -2
+4 7 -3
+7 9 -2
+[2 4 7 9 12]  bad level
+starting??
+CONVERT
+51 49 2
+49 46 3
+46 43 3
+43 41 2
+41 39 2
+39 37 2
+[51 49 46 43 41 39 37 36]  bad level
+starting??
+CONVERT
+18 16 2
+16 15 1
+15 12 3
+12 9 3
+[18 16 15 12 9 6]  bad level
+starting??
+CONVERT
+79 81 -2
+81 84 -3
+84 85 -1
+[79 81 84 85 86]  bad level
+starting??
+CONVERT
+98 96 2
+96 93 3
+93 92 1
+92 89 3
+89 88 1
+88 86 2
+[98 96 93 92 89 88 86 85]  bad level
+starting??
+CONVERT
+75 77 -2
+77 79 -2
+79 82 -3
+[75 77 79 82 85]  bad level
+starting??
+CONVERT
+63 62 1
+62 59 3
+59 57 2
+57 56 1
+56 55 1
+[63 62 59 57 56 55 53]  bad level
+starting??
+CONVERT
+25 27 -2
+27 29 -2
+29 31 -2
+[25 27 29 31 33]  bad level
+starting??
+CONVERT
+19 21 -2
+21 23 -2
+23 24 -1
+24 27 -3
+27 29 -2
+[19 21 23 24 27 29 30]  bad level
+starting??
+CONVERT
+46 45 1
+45 42 3
+42 41 1
+41 39 2
+39 36 3
+36 34 2
+[46 45 42 41 39 36 34 32]  bad level
+starting??
+CONVERT
+48 45 3
+45 44 1
+44 41 3
+41 39 2
+39 38 1
+[48 45 44 41 39 38 36]  bad level
+starting??
+CONVERT
+68 69 -1
+69 70 -1
+70 72 -2
+72 75 -3
+75 77 -2
+77 78 -1
+[68 69 70 72 75 77 78 80]  bad level
+starting??
+CONVERT
+30 33 -3
+33 34 -1
+34 36 -2
+36 37 -1
+[30 33 34 36 37 39]  bad level
+starting??
+CONVERT
+45 46 -1
+46 48 -2
+48 50 -2
+50 53 -3
+53 55 -2
+[45 46 48 50 53 55 56]  bad level
+starting??
+CONVERT
+75 78 -3
+78 79 -1
+79 82 -3
+82 84 -2
+84 86 -2
+[75 78 79 82 84 86 87]  bad level
+starting??
+CONVERT
+78 81 -3
+81 83 -2
+83 85 -2
+[78 81 83 85 86]  bad level
+starting??
+CONVERT
+16 17 -1
+17 20 -3
+20 22 -2
+22 25 -3
+25 26 -1
+[16 17 20 22 25 26 27]  bad level
+starting??
+CONVERT
+79 77 2
+77 76 1
+76 73 3
+73 72 1
+72 70 2
+[79 77 76 73 72 70 68]  bad level
+starting??
+CONVERT
+96 95 1
+95 93 2
+93 90 3
+90 88 2
+88 86 2
+86 84 2
+[96 95 93 90 88 86 84 81]  bad level
+starting??
+CONVERT
+55 56 -1
+56 58 -2
+58 60 -2
+[55 56 58 60 62]  bad level
+starting??
+CONVERT
+63 66 -3
+66 69 -3
+69 70 -1
+70 72 -2
+72 75 -3
+75 76 -1
+[63 66 69 70 72 75 76 77]  bad level
+starting??
+CONVERT
+10 11 -1
+11 14 -3
+14 15 -1
+15 16 -1
+[10 11 14 15 16 18]  bad level
+starting??
+CONVERT
+89 87 2
+87 85 2
+85 82 3
+82 81 1
+81 80 1
+80 77 3
+[89 87 85 82 81 80 77 76]  bad level
+starting??
+CONVERT
+59 56 3
+56 54 2
+54 52 2
+52 51 1
+[59 56 54 52 51 49]  bad level
+starting??
+CONVERT
+35 38 -3
+38 41 -3
+41 42 -1
+[35 38 41 42 43]  bad level
+starting??
+CONVERT
+79 76 3
+76 73 3
+73 70 3
+70 69 1
+[79 76 73 70 69 67]  bad level
+starting??
+CONVERT
+89 88 1
+88 85 3
+85 83 2
+83 81 2
+81 78 3
+78 75 3
+[89 88 85 83 81 78 75 74]  bad level
+starting??
+CONVERT
+14 17 -3
+17 20 -3
+20 22 -2
+22 25 -3
+25 26 -1
+[14 17 20 22 25 26 27]  bad level
+starting??
+CONVERT
+18 21 -3
+21 23 -2
+23 25 -2
+25 26 -1
+26 28 -2
+28 31 -3
+[18 21 23 25 26 28 31 33]  bad level
+starting??
+CONVERT
+93 92 1
+92 90 2
+90 89 1
+[93 92 90 89 86]  bad level
+starting??
+CONVERT
+33 32 1
+32 29 3
+29 26 3
+26 25 1
+[33 32 29 26 25 22]  bad level
+starting??
+CONVERT
+17 16 1
+16 13 3
+13 11 2
+[17 16 13 11 8]  bad level
+starting??
+CONVERT
+72 75 -3
+75 77 -2
+77 78 -1
+78 80 -2
+[72 75 77 78 80 83]  bad level
+starting??
+CONVERT
+85 88 -3
+88 89 -1
+89 92 -3
+[85 88 89 92 94]  bad level
+starting??
+CONVERT
+14 15 -1
+15 16 -1
+16 19 -3
+[14 15 16 19 22]  bad level
+starting??
+CONVERT
+65 67 -2
+67 69 -2
+69 70 -1
+70 72 -2
+72 74 -2
+74 76 -2
+[65 67 69 70 72 74 76 79]  bad level
+starting??
+CONVERT
+81 79 2
+79 77 2
+77 75 2
+75 74 1
+74 73 1
+[81 79 77 75 74 73 70]  bad level
+starting??
+CONVERT
+63 61 2
+61 58 3
+58 57 1
+[63 61 58 57 54]  bad level
+starting??
+CONVERT
+82 84 -2
+84 86 -2
+86 89 -3
+89 92 -3
+[82 84 86 89 92 95]  bad level
+starting??
+CONVERT
+55 54 1
+54 51 3
+51 48 3
+[55 54 51 48 46]  bad level
+starting??
+CONVERT
+47 49 -2
+49 50 -1
+50 52 -2
+52 55 -3
+55 56 -1
+[47 49 50 52 55 56 58]  bad level
+starting??
+CONVERT
+10 9 1
+9 6 3
+6 5 1
+[10 9 6 5 3]  bad level
+starting??
+CONVERT
+20 22 -2
+22 24 -2
+24 26 -2
+26 28 -2
+[20 22 24 26 28 31]  bad level
+starting??
+CONVERT
+38 35 3
+35 33 2
+33 31 2
+31 28 3
+[38 35 33 31 28 26]  bad level
+starting??
+CONVERT
+35 32 3
+32 30 2
+30 28 2
+28 25 3
+25 23 2
+23 21 2
+[35 32 30 28 25 23 21 19]  bad level
+starting??
+CONVERT
+57 56 1
+56 54 2
+54 51 3
+51 50 1
+[57 56 54 51 50 47]  bad level
+starting??
+CONVERT
+77 78 -1
+78 79 -1
+79 80 -1
+[77 78 79 80 82]  bad level
+starting??
+CONVERT
+15 18 -3
+18 19 -1
+19 22 -3
+22 25 -3
+25 27 -2
+27 29 -2
+[15 18 19 22 25 27 29 30]  bad level
+starting??
+CONVERT
+17 14 3
+14 13 1
+13 10 3
+10 7 3
+[17 14 13 10 7 5]  bad level
+starting??
+CONVERT
+16 13 3
+13 10 3
+10 8 2
+[16 13 10 8 7]  bad level
+starting??
+CONVERT
+25 27 -2
+27 28 -1
+28 29 -1
+29 30 -1
+30 33 -3
+33 34 -1
+[25 27 28 29 30 33 34 35]  bad level
+starting??
+CONVERT
+50 51 -1
+51 52 -1
+52 53 -1
+[50 51 52 53 55]  bad level
+starting??
+CONVERT
+66 65 1
+65 62 3
+62 59 3
+59 58 1
+58 56 2
+56 55 1
+[66 65 62 59 58 56 55 54]  bad level
+starting??
+CONVERT
+84 86 -2
+86 89 -3
+89 90 -1
+[84 86 89 90 92]  bad level
+starting??
+CONVERT
+72 70 2
+70 67 3
+67 64 3
+64 62 2
+62 60 2
+[72 70 67 64 62 60 58]  bad level
+starting??
+CONVERT
+44 41 3
+41 39 2
+39 36 3
+36 34 2
+[44 41 39 36 34 33]  bad level
+starting??
+CONVERT
+13 14 -1
+14 17 -3
+17 19 -2
+19 21 -2
+21 23 -2
+[13 14 17 19 21 23 25]  bad level
+starting??
+CONVERT
+91 89 2
+89 86 3
+86 85 1
+[91 89 86 85 84]  bad level
+starting??
+CONVERT
+84 83 1
+83 82 1
+82 81 1
+81 80 1
+80 78 2
+78 76 2
+[84 83 82 81 80 78 76 74]  bad level
+starting??
+CONVERT
+95 94 1
+94 92 2
+92 91 1
+[95 94 92 91 88]  bad level
+starting??
+CONVERT
+78 79 -1
+79 81 -2
+81 84 -3
+84 86 -2
+86 88 -2
+[78 79 81 84 86 88 89]  bad level
+starting??
+CONVERT
+64 65 -1
+65 66 -1
+66 68 -2
+68 70 -2
+70 73 -3
+73 75 -2
+[64 65 66 68 70 73 75 77]  bad level
+starting??
+CONVERT
+42 39 3
+39 38 1
+38 37 1
+[42 39 38 37 35]  bad level
+starting??
+CONVERT
+25 28 -3
+28 29 -1
+29 31 -2
+31 32 -1
+32 34 -2
+34 37 -3
+[25 28 29 31 32 34 37 39]  bad level
+starting??
+CONVERT
+62 60 2
+60 59 1
+59 57 2
+[62 60 59 57 54]  bad level
+starting??
+CONVERT
+18 17 1
+17 16 1
+16 15 1
+15 12 3
+12 10 2
+[18 17 16 15 12 10 9]  bad level
+starting??
+CONVERT
+55 57 -2
+57 59 -2
+59 60 -1
+[55 57 59 60 61]  bad level
+starting??
+CONVERT
+16 15 1
+15 12 3
+12 11 1
+11 10 1
+10 7 3
+7 6 1
+[16 15 12 11 10 7 6 3]  bad level
+starting??
+CONVERT
+63 62 1
+62 59 3
+59 57 2
+57 55 2
+[63 62 59 57 55 52]  bad level
+starting??
+CONVERT
+44 42 2
+42 41 1
+41 38 3
+[44 42 41 38 37]  bad level
+starting??
+CONVERT
+58 60 -2
+60 62 -2
+62 65 -3
+65 68 -3
+68 71 -3
+[58 60 62 65 68 71 74]  bad level
+starting??
+CONVERT
+82 83 -1
+83 86 -3
+86 88 -2
+88 90 -2
+90 93 -3
+[82 83 86 88 90 93 95]  bad level
+starting??
+CONVERT
+54 51 3
+51 50 1
+50 47 3
+[54 51 50 47 44]  bad level
+starting??
+CONVERT
+37 35 2
+35 32 3
+32 31 1
+31 29 2
+29 26 3
+[37 35 32 31 29 26 24]  bad level
+starting??
+CONVERT
+52 50 2
+50 48 2
+48 45 3
+45 43 2
+43 40 3
+[52 50 48 45 43 40 38]  bad level
+starting??
+CONVERT
+68 66 2
+66 63 3
+63 61 2
+61 60 1
+[68 66 63 61 60 59]  bad level
+starting??
+CONVERT
+67 69 -2
+69 71 -2
+71 74 -3
+74 76 -2
+[67 69 71 74 76 78]  bad level
+starting??
+CONVERT
+6 7 -1
+7 8 -1
+8 9 -1
+9 11 -2
+[6 7 8 9 11 12]  bad level
+starting??
+CONVERT
+8 11 -3
+11 14 -3
+14 17 -3
+17 19 -2
+19 22 -3
+22 24 -2
+[8 11 14 17 19 22 24 27]  bad level
+starting??
+CONVERT
+64 66 -2
+66 69 -3
+69 72 -3
+72 73 -1
+73 75 -2
+[64 66 69 72 73 75 76]  bad level
+starting??
+CONVERT
+32 35 -3
+35 37 -2
+37 38 -1
+38 40 -2
+40 42 -2
+42 45 -3
+[32 35 37 38 40 42 45 47]  bad level
+starting??
+CONVERT
+40 41 -1
+41 44 -3
+44 45 -1
+[40 41 44 45 48]  bad level
+starting??
+CONVERT
+49 46 3
+46 44 2
+44 43 1
+[49 46 44 43 40]  bad level
+starting??
+CONVERT
+45 43 2
+43 42 1
+42 40 2
+40 39 1
+[45 43 42 40 39 38]  bad level
+starting??
+CONVERT
+41 39 2
+39 36 3
+36 35 1
+35 34 1
+34 33 1
+33 31 2
+[41 39 36 35 34 33 31 30]  bad level
+starting??
+CONVERT
+30 29 1
+29 26 3
+26 23 3
+[30 29 26 23 22]  bad level
+starting??
+CONVERT
+83 80 3
+80 77 3
+77 74 3
+74 72 2
+72 69 3
+[83 80 77 74 72 69 67]  bad level
+starting??
+CONVERT
+20 17 3
+17 16 1
+16 14 2
+14 12 2
+12 11 1
+[20 17 16 14 12 11 8]  bad level
+starting??
+CONVERT
+11 13 -2
+13 16 -3
+16 19 -3
+19 21 -2
+21 22 -1
+22 25 -3
+[11 13 16 19 21 22 25 26]  bad level
+starting??
+CONVERT
+5 7 -2
+7 9 -2
+9 11 -2
+11 13 -2
+13 15 -2
+15 17 -2
+[5 7 9 11 13 15 17 20]  bad level
+starting??
+CONVERT
+12 14 -2
+14 17 -3
+17 19 -2
+[12 14 17 19 20]  bad level
+starting??
+CONVERT
+43 41 2
+41 40 1
+40 39 1
+[43 41 40 39 36]  bad level
+starting??
+CONVERT
+31 30 1
+30 29 1
+29 27 2
+27 25 2
+25 22 3
+[31 30 29 27 25 22 19]  bad level
+starting??
+CONVERT
+73 75 -2
+75 76 -1
+76 77 -1
+77 78 -1
+78 80 -2
+[73 75 76 77 78 80 81]  bad level
+starting??
+CONVERT
+55 54 1
+54 52 2
+52 49 3
+49 48 1
+48 45 3
+[55 54 52 49 48 45 42]  bad level
+starting??
+CONVERT
+72 70 2
+70 67 3
+67 66 1
+66 64 2
+64 63 1
+63 62 1
+[72 70 67 66 64 63 62 60]  bad level
+starting??
+CONVERT
+68 66 2
+66 64 2
+64 62 2
+62 59 3
+59 56 3
+56 53 3
+[68 66 64 62 59 56 53 52]  bad level
+starting??
+CONVERT
+62 65 -3
+65 67 -2
+67 69 -2
+[62 65 67 69 72]  bad level
+starting??
+CONVERT
+31 33 -2
+33 35 -2
+35 38 -3
+38 39 -1
+39 42 -3
+42 44 -2
+[31 33 35 38 39 42 44 46]  bad level
+starting??
+CONVERT
+34 37 -3
+37 38 -1
+38 41 -3
+41 43 -2
+43 44 -1
+[34 37 38 41 43 44 47]  bad level
+starting??
+CONVERT
+62 65 -3
+65 68 -3
+68 70 -2
+70 71 -1
+[62 65 68 70 71 73]  bad level
+starting??
+CONVERT
+44 41 3
+41 40 1
+40 39 1
+39 36 3
+36 33 3
+33 31 2
+[44 41 40 39 36 33 31 30]  bad level
+starting??
+CONVERT
+99 96 3
+96 94 2
+94 92 2
+92 89 3
+[99 96 94 92 89 86]  bad level
+starting??
+CONVERT
+38 40 -2
+40 43 -3
+43 44 -1
+44 45 -1
+[38 40 43 44 45 47]  bad level
+starting??
+CONVERT
+9 6 3
+6 4 2
+4 2 2
+[9 6 4 2 1]  bad level
+starting??
+CONVERT
+5 7 -2
+7 9 -2
+9 11 -2
+11 13 -2
+13 16 -3
+[5 7 9 11 13 16 18]  bad level
+starting??
+CONVERT
+45 46 -1
+46 47 -1
+47 48 -1
+48 51 -3
+51 54 -3
+54 57 -3
+[45 46 47 48 51 54 57 59]  bad level
+starting??
+CONVERT
+43 40 3
+40 38 2
+38 36 2
+36 34 2
+34 33 1
+[43 40 38 36 34 33 30]  bad level
+starting??
+CONVERT
+6 9 -3
+9 10 -1
+10 12 -2
+12 14 -2
+[6 9 10 12 14 17]  bad level
+starting??
+CONVERT
+56 59 -3
+59 62 -3
+62 64 -2
+[56 59 62 64 67]  bad level
+starting??
+CONVERT
+24 22 2
+22 21 1
+21 19 2
+19 17 2
+[24 22 21 19 17 16]  bad level
+starting??
+CONVERT
+51 52 -1
+52 55 -3
+55 56 -1
+56 59 -3
+59 61 -2
+61 62 -1
+[51 52 55 56 59 61 62 65]  bad level
+starting??
+CONVERT
+54 51 3
+51 48 3
+48 46 2
+46 44 2
+44 42 2
+42 39 3
+[54 51 48 46 44 42 39 37]  bad level
+starting??
+CONVERT
+90 87 3
+87 86 1
+86 84 2
+84 81 3
+81 79 2
+[90 87 86 84 81 79 78]  bad level
+starting??
+CONVERT
+62 64 -2
+64 65 -1
+65 67 -2
+67 68 -1
+[62 64 65 67 68 70]  bad level
+starting??
+CONVERT
+61 59 2
+59 58 1
+58 57 1
+57 54 3
+54 51 3
+[61 59 58 57 54 51 49]  bad level
+starting??
+CONVERT
+64 62 2
+62 61 1
+61 60 1
+[64 62 61 60 57]  bad level
+starting??
+CONVERT
+88 85 3
+85 83 2
+83 82 1
+82 81 1
+[88 85 83 82 81 80]  bad level
+starting??
+CONVERT
+36 33 3
+33 30 3
+30 28 2
+[36 33 30 28 25]  bad level
+starting??
+CONVERT
+39 37 2
+37 34 3
+34 31 3
+31 29 2
+29 26 3
+26 23 3
+[39 37 34 31 29 26 23 20]  bad level
+starting??
+CONVERT
+81 83 -2
+83 86 -3
+86 89 -3
+[81 83 86 89 90]  bad level
+starting??
+CONVERT
+69 70 -1
+70 71 -1
+71 72 -1
+72 73 -1
+73 75 -2
+75 78 -3
+[69 70 71 72 73 75 78 81]  bad level
+starting??
+CONVERT
+68 70 -2
+70 73 -3
+73 74 -1
+74 75 -1
+75 78 -3
+78 79 -1
+[68 70 73 74 75 78 79 81]  bad level
+starting??
+CONVERT
+33 35 -2
+35 38 -3
+38 39 -1
+39 40 -1
+40 43 -3
+43 44 -1
+[33 35 38 39 40 43 44 46]  bad level
+starting??
+CONVERT
+65 67 -2
+67 68 -1
+68 69 -1
+[65 67 68 69 70]  bad level
+starting??
+CONVERT
+85 82 3
+82 80 2
+80 78 2
+78 77 1
+[85 82 80 78 77 75]  bad level
+starting??
+CONVERT
+20 19 1
+19 16 3
+16 13 3
+13 10 3
+10 8 2
+[20 19 16 13 10 8 6]  bad level
+starting??
+CONVERT
+77 80 -3
+80 83 -3
+83 86 -3
+86 88 -2
+88 89 -1
+[77 80 83 86 88 89 92]  bad level
+starting??
+CONVERT
+99 96 3
+96 93 3
+93 90 3
+90 88 2
+88 85 3
+85 83 2
+[99 96 93 90 88 85 83 81]  bad level
+starting??
+CONVERT
+28 29 -1
+29 31 -2
+31 33 -2
+33 36 -3
+[28 29 31 33 36 39]  bad level
+starting??
+CONVERT
+87 88 -1
+88 89 -1
+89 90 -1
+[87 88 89 90 91]  bad level
+starting??
+CONVERT
+75 77 -2
+77 80 -3
+80 83 -3
+83 84 -1
+84 87 -3
+87 89 -2
+[75 77 80 83 84 87 89 90]  bad level
+starting??
+CONVERT
+72 75 -3
+75 76 -1
+76 79 -3
+79 82 -3
+82 83 -1
+[72 75 76 79 82 83 85]  bad level
+starting??
+CONVERT
+70 72 -2
+72 75 -3
+75 77 -2
+77 78 -1
+78 79 -1
+[70 72 75 77 78 79 80]  bad level
+starting??
+CONVERT
+78 80 -2
+80 82 -2
+82 84 -2
+[78 80 82 84 86]  bad level
+starting??
+CONVERT
+21 20 1
+20 19 1
+19 17 2
+17 14 3
+14 12 2
+12 11 1
+[21 20 19 17 14 12 11 10]  bad level
+starting??
+CONVERT
+6 8 -2
+8 9 -1
+9 11 -2
+[6 8 9 11 14]  bad level
+starting??
+CONVERT
+54 51 3
+51 50 1
+50 49 1
+[54 51 50 49 47]  bad level
+starting??
+CONVERT
+32 31 1
+31 29 2
+29 28 1
+28 25 3
+25 24 1
+[32 31 29 28 25 24 23]  bad level
+starting??
+CONVERT
+76 78 -2
+78 79 -1
+79 80 -1
+80 82 -2
+82 83 -1
+[76 78 79 80 82 83 84]  bad level
+starting??
+CONVERT
+31 28 3
+28 26 2
+26 23 3
+[31 28 26 23 22]  bad level
+starting??
+CONVERT
+66 63 3
+63 61 2
+61 60 1
+[66 63 61 60 58]  bad level
+starting??
+CONVERT
+57 54 3
+54 51 3
+51 49 2
+49 47 2
+[57 54 51 49 47 46]  bad level
+starting??
+CONVERT
+49 51 -2
+51 54 -3
+54 57 -3
+57 60 -3
+60 61 -1
+[49 51 54 57 60 61 62]  bad level
+starting??
+CONVERT
+29 27 2
+27 24 3
+24 22 2
+22 20 2
+20 18 2
+18 15 3
+[29 27 24 22 20 18 15 14]  bad level
+starting??
+CONVERT
+50 48 2
+48 47 1
+47 45 2
+45 44 1
+44 42 2
+[50 48 47 45 44 42 39]  bad level
+starting??
+CONVERT
+14 12 2
+12 11 1
+11 9 2
+9 7 2
+7 6 1
+[14 12 11 9 7 6 3]  bad level
+starting??
+CONVERT
+16 15 1
+15 14 1
+14 12 2
+12 11 1
+[16 15 14 12 11 8]  bad level
+starting??
+CONVERT
+4 6 -2
+6 7 -1
+7 10 -3
+10 13 -3
+13 16 -3
+16 17 -1
+[4 6 7 10 13 16 17 20]  bad level
+starting??
+CONVERT
+21 24 -3
+24 26 -2
+26 27 -1
+27 29 -2
+[21 24 26 27 29 32]  bad level
+starting??
+CONVERT
+34 36 -2
+36 37 -1
+37 38 -1
+38 41 -3
+[34 36 37 38 41 44]  bad level
+starting??
+CONVERT
+61 59 2
+59 57 2
+57 56 1
+56 55 1
+55 54 1
+[61 59 57 56 55 54 52]  bad level
+starting??
+CONVERT
+74 71 3
+71 69 2
+69 67 2
+67 66 1
+66 64 2
+64 63 1
+[74 71 69 67 66 64 63 62]  bad level
+starting??
+CONVERT
+21 20 1
+20 17 3
+17 16 1
+16 13 3
+[21 20 17 16 13 10]  bad level
+starting??
+CONVERT
+68 71 -3
+71 74 -3
+74 75 -1
+75 77 -2
+[68 71 74 75 77 80]  bad level
+starting??
+CONVERT
+50 52 -2
+52 53 -1
+53 55 -2
+55 56 -1
+56 59 -3
+[50 52 53 55 56 59 60]  bad level
+starting??
+CONVERT
+32 34 -2
+34 36 -2
+36 37 -1
+[32 34 36 37 38]  bad level
+starting??
+CONVERT
+2 5 -3
+5 8 -3
+8 9 -1
+9 12 -3
+12 13 -1
+[2 5 8 9 12 13 16]  bad level
+starting??
+CONVERT
+16 14 2
+14 12 2
+12 9 3
+9 6 3
+[16 14 12 9 6 3]  bad level
+starting??
+CONVERT
+3 5 -2
+5 7 -2
+7 10 -3
+10 13 -3
+13 15 -2
+15 18 -3
+[3 5 7 10 13 15 18 19]  bad level
+starting??
+CONVERT
+57 54 3
+54 52 2
+52 50 2
+[57 54 52 50 47]  bad level
+starting??
+CONVERT
+54 52 2
+52 50 2
+50 48 2
+[54 52 50 48 46]  bad level
+starting??
+CONVERT
+42 45 -3
+45 48 -3
+48 49 -1
+[42 45 48 49 50]  bad level
+starting??
+CONVERT
+23 25 -2
+25 26 -1
+26 28 -2
+28 31 -3
+[23 25 26 28 31 34]  bad level
+starting??
+CONVERT
+64 61 3
+61 58 3
+58 57 1
+57 56 1
+[64 61 58 57 56 54]  bad level
+starting??
+CONVERT
+53 52 1
+52 50 2
+50 49 1
+49 48 1
+48 46 2
+[53 52 50 49 48 46 43]  bad level
+starting??
+CONVERT
+43 42 1
+42 40 2
+40 38 2
+38 36 2
+36 35 1
+[43 42 40 38 36 35 34]  bad level
+starting??
+CONVERT
+95 93 2
+93 91 2
+91 88 3
+88 86 2
+[95 93 91 88 86 85]  bad level
+starting??
+CONVERT
+50 51 -1
+51 54 -3
+54 57 -3
+57 58 -1
+58 59 -1
+59 61 -2
+[50 51 54 57 58 59 61 63]  bad level
+starting??
+CONVERT
+63 66 -3
+66 67 -1
+67 69 -2
+69 71 -2
+[63 66 67 69 71 72]  bad level
+starting??
+CONVERT
+20 19 1
+19 17 2
+17 16 1
+16 15 1
+15 14 1
+[20 19 17 16 15 14 12]  bad level
+starting??
+CONVERT
+51 48 3
+48 46 2
+46 44 2
+[51 48 46 44 42]  bad level
+starting??
+CONVERT
+4 6 -2
+6 7 -1
+7 8 -1
+8 11 -3
+11 12 -1
+12 14 -2
+[4 6 7 8 11 12 14 16]  bad level
+starting??
+CONVERT
+18 17 1
+17 14 3
+14 12 2
+12 11 1
+[18 17 14 12 11 10]  bad level
+starting??
+CONVERT
+90 91 -1
+91 92 -1
+92 93 -1
+93 95 -2
+95 96 -1
+[90 91 92 93 95 96 98]  bad level
+starting??
+CONVERT
+59 57 2
+57 56 1
+56 54 2
+[59 57 56 54 52]  bad level
+starting??
+CONVERT
+76 74 2
+74 71 3
+71 69 2
+[76 74 71 69 67]  bad level
+starting??
+CONVERT
+43 40 3
+40 39 1
+39 38 1
+[43 40 39 38 35]  bad level
+starting??
+CONVERT
+17 20 -3
+20 23 -3
+23 26 -3
+26 29 -3
+[17 20 23 26 29 31]  bad level
+starting??
+CONVERT
+76 73 3
+73 70 3
+70 69 1
+69 68 1
+[76 73 70 69 68 65]  bad level
+starting??
+CONVERT
+25 24 1
+24 23 1
+23 20 3
+20 19 1
+19 17 2
+[25 24 23 20 19 17 16]  bad level
+starting??
+CONVERT
+69 67 2
+67 65 2
+65 64 1
+[69 67 65 64 61]  bad level
+starting??
+CONVERT
+49 46 3
+46 43 3
+43 40 3
+40 39 1
+39 37 2
+37 34 3
+[49 46 43 40 39 37 34 31]  bad level
+starting??
+CONVERT
+43 40 3
+40 37 3
+37 35 2
+[43 40 37 35 32]  bad level
+starting??
+CONVERT
+25 28 -3
+28 29 -1
+29 31 -2
+31 34 -3
+[25 28 29 31 34 37]  bad level
+starting??
+CONVERT
+52 51 1
+51 48 3
+48 47 1
+47 45 2
+45 43 2
+[52 51 48 47 45 43 42]  bad level
+starting??
+CONVERT
+24 21 3
+21 20 1
+20 17 3
+17 16 1
+16 15 1
+15 13 2
+[24 21 20 17 16 15 13 11]  bad level
+starting??
+CONVERT
+74 73 1
+73 71 2
+71 70 1
+[74 73 71 70 68]  bad level
+starting??
+CONVERT
+9 10 -1
+10 11 -1
+11 13 -2
+13 15 -2
+15 18 -3
+[9 10 11 13 15 18 20]  bad level
+starting??
+CONVERT
+64 61 3
+61 59 2
+59 57 2
+57 56 1
+[64 61 59 57 56 55]  bad level
+starting??
+CONVERT
+35 32 3
+32 30 2
+30 28 2
+28 25 3
+[35 32 30 28 25 24]  bad level
+starting??
+CONVERT
+18 19 -1
+19 22 -3
+22 23 -1
+23 24 -1
+24 27 -3
+[18 19 22 23 24 27 29]  bad level
+starting??
+CONVERT
+47 45 2
+45 42 3
+42 41 1
+41 38 3
+38 37 1
+37 34 3
+[47 45 42 41 38 37 34 32]  bad level
+starting??
+CONVERT
+70 69 1
+69 66 3
+66 63 3
+[70 69 66 63 62]  bad level
+starting??
+CONVERT
+20 17 3
+17 14 3
+14 13 1
+13 12 1
+12 11 1
+11 8 3
+[20 17 14 13 12 11 8 5]  bad level
+starting??
+CONVERT
+9 7 2
+7 6 1
+6 4 2
+[9 7 6 4 2]  bad level
+starting??
+CONVERT
+88 90 -2
+90 92 -2
+92 93 -1
+93 96 -3
+[88 90 92 93 96 99]  bad level
+starting??
+CONVERT
+75 76 -1
+76 77 -1
+77 78 -1
+78 80 -2
+80 83 -3
+83 84 -1
+[75 76 77 78 80 83 84 86]  bad level
+starting??
+CONVERT
+72 71 1
+71 69 2
+69 68 1
+68 67 1
+[72 71 69 68 67 64]  bad level
+starting??
+Got:  0
+--- FAIL: TestDayOne (0.01s)
+    day2_test.go:13: Got the wrong answer should be 2
+FAIL
+exit status 1
+FAIL	day2	0.017s
